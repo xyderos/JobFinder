@@ -1,0 +1,15 @@
+Till vår kund söker vi en Senior Web Developer , enligt nedan: SENIOR WEB DEVELOPER TO DIGITAL SOLUTIONS About the
+customer he customer is a successful company that invests in innovation and continuous improvement. We develop IT
+applications and mobile solutions in new and modern technology. Most of our large strategic projects are based on the
+.NET platform and run agile development principles.   Background We are looking to strengthening one of our development
+teams with a senior .NET developer with strong frontend competence as a team member is ending his assignment. The team
+is developing one of our public facing web shops that are in need of refactoring due to technical debt.     The role The
+consultant will be taking lead on the refactoring initiative from a frontend perspective and will be working with
+gradually moving functionality from the old to the new stack. The assignment also includes doing required high priority
+development work on the existing solution during the refactoring phase.     Desired Skills and Experience
+-          Deep knowledge of C# and ASP.NET MVC -          Deep knowledge of modern web technologies and frameworks
+-          Solid JavaScript knowledge, preferably also TypeScript experience -          Experience with Azure and Team
+Foundation Service -          Experience with Sql Server -          Experience with continuous integration and/or
+deployment -          Experience with unit testing managed code and JavaScript -          Experience with developing
+public web applications     Location If Bergshamra/SolnaProfinder – erfarna konsulter inom IT, Teknik och Management  | 
+Orgnr. 556684-0616  | Tel: 08 750 49 00Stockholm  |  Göteborg  |  LinköpingVisa skrivbordsversion

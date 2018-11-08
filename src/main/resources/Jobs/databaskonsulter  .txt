@@ -1,0 +1,10 @@
+Till vår kund söker vi en Databaskonsulter, enligt nedan: Om rollen: - Ingripa och ta hand om incidenter, hantera
+serviceärenden (service requests), implementera förändringar (changes) och lösa problem (problem) inom SLA-tiden och med
+bra återkoppling - Arbeta med stödsystem så som ticket system, CMDBs, Management system - Tidsrapportera när det är
+tillämpligt - Löpande dokumentera sitt arbete - Svensk medborgare Tekniska kunskaper - Erfarenhet av större miljöer -
+Erfarenhet av att lösa incidenter och göra analyser i realtid - Erfarenhet av Performance Tuning och optimering (PTO),
+med hjälp av "native monitoring" och felsökningverktyg - Erfarenhet av backuper, återläsningar och modeller för
+datarecovery - Erfarenhet av High Availability (HA) och Disaster Recovery (DR) - Mycket goda kunskaper i MSSQL
+Personliga egenskaper:  Social kompetens, kan arbeta i en aktivitetsbaserad arbetsmiljö   Start: Så snart som möjligt
+Placeringsort: 100% på plats hos kunden, StockholmProfinder – erfarna konsulter inom IT, Teknik och Management  | 
+Orgnr. 556684-0616  | Tel: 08 750 49 00Stockholm  |  Göteborg  |  LinköpingVisa skrivbordsversion

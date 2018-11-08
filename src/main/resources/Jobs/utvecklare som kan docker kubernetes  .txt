@@ -1,0 +1,10 @@
+Till vår kund söker vi en Utvecklare som kan Docker/Kubernetes, enligt nedan: Vi söker en Developer som förstår
+operations, gillar automatiseringar, och som är duktig på att sätta upp Docker och/eller Kubernetes miljöer tillsammans
+med CI/CD flöden. B2B Cloud kommer sätta upp container miljöer för att utvecklare skall implementera skalbara
+Microservices miljöer. Vi söker dig som kan sätta upp Docke och/eller Kubernetes miljöer för detta ändamål. Det finns
+idag en dockermiljö från ett annat land att inspireras ifrån. Önskad kompetens - Docker och/eller Kubernetes, GIT -
+Gärna även Ansible, Jenkins, Python eller motsvarande - Agilt arbete i Scrum eller motsvarande Övrigt - Tidsrapportera
+när det är tillämpligt - Löpande dokumentera sitt arbete Personliga egenskaper: social kompetens, kan arbeta i en
+aktivitetsbaserad arbetsmiljö Erfarenhet: ca 5år+ Start: Så snart som möjligt Placeringsort: 100% på plats hos kunden,
+StockholmProfinder – erfarna konsulter inom IT, Teknik och Management  |  Orgnr. 556684-0616  | Tel: 08 750 49
+00Stockholm  |  Göteborg  |  LinköpingVisa skrivbordsversion

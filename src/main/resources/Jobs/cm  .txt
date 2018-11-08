@@ -1,0 +1,14 @@
+Arbetsuppgifter: * Har koll på enm-spec-filer på build. Att de finns, skapas, innehåller rätt info osv. * Underhåller
+och skapar byggjobb i Jenkins * Beställer och har hand om byggservrar (virtuella maskiner) * Underhåller och
+förbättrar byggscript (python) * ser till att rensningsscript inte löper amok och rensar för mycket på build * bygger
+releasekandidater - förutom vanliga applikationer även boot, kernel och osappl * ser till att lunch och nattbyggen
+funkar som de ska * kopierar filer mellan servrar och ser till att scripten har kopierat rätt * paketerar färdiga
+releaser (kollar att allt ligger på rätt plats, innehåller rätt info, zippar, kör valideringsscript på zippen osv) *
+checkar in klara releaser i SVN (även releasedokumentation som IRN, PCN, PDS, ERN) * Branchar releasebrancher (och fixar
+det som behöver runtomkring där, nya spec-filer, nya byggjobb, nya byggmaskiner osv åker också ofta på
+backupkonvertering) * mergar ändringar i releasebranchen till master * skapar upgrade impact-filer, ser till att de
+testas och mejlar dessa till TAC * går på releasemöten * håller lite koll på byggmejlen och ser till att det lagas och
+det är fel   De uppgifterna utgör ca 50% av en heltidstjänst och resterande tid ska läggas på att förbättra processen så
+att så mycket som möjligt av ovanstående automatiseras m h a pythonscript. Start : asap.Profinder – erfarna konsulter
+inom IT, Teknik och Management  |  Orgnr. 556684-0616  | Tel: 08 750 49 00Stockholm  |  Göteborg  |  LinköpingVisa
+skrivbordsversion

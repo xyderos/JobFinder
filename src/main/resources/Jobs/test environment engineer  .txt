@@ -1,0 +1,21 @@
+Till vår kund söker vi en Test Environment Engineer, enligt nedan:  TEE – Test Environment Engineer for Telecom system
+Responsibilities & Authorities: ·         When agreed with Product Owner be the main stakeholder interface for Test
+Environment requests/escalations ·         Throughout the Test Environment request process the TEE needs to secure that
+required HW and documentation is available for the Test Environment delivery. ·         Analyze Test Environment
+requests o   Secure that requirements are refined together with requester o   Verify budget estimation/availability
+o   Add details and costs to the request documentation if necessary o   Prepare build scope into the CR review and call
+for review ·         Initiate orders ·         Secure deliveries, monitor requirement fulfillment and act on deviations
+·         Support teams to secure a build flow ·         Verify budget estimation and availability (budget approved when
+required) ·         Visualize progress of the Test Environment request process until Ready for build (e.g. update
+request) ·         Feedback to stakeholders on progress/update Test Environment request process ·         Support other
+in Test Environment related discussions (for example questions/need from stakeholder) ·         Identify, suggest and
+where applicable drive improvement activities ·         Participate in and actively contribute in retrospectives Needed
+competence profile: ·         A full-time resource is needed to work with the geographically distributed cellular
+operator like core network/OSS supporting both Global ICT Center moves and daily operations work with an E2E
+perspective.  ·         A technical resource that can coordinate with stakeholders and manage both Core network and
+OSS/ENM based on the need of test organizations with requested HW and SW.  ·         Gather & analyze many product
+development requirements and understanding of E2E test setup in order to Support test organization with solutions that
+fit their test needs with a cost efficient and long term perspective.     ·         Experience of Telecom Systems,
+project management process and procedures.   Start: Så snart som möjligt Uppdragslängd: 6 månader med möjlighet till
+förlängning Placeringsort: 100% på plats hos kunden, StockholmProfinder – erfarna konsulter inom IT, Teknik och
+Management  |  Orgnr. 556684-0616  | Tel: 08 750 49 00Stockholm  |  Göteborg  |  LinköpingVisa skrivbordsversion

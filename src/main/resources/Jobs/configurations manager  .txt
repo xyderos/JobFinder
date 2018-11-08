@@ -1,0 +1,11 @@
+  Your Key Responsibilities Would Include: ·       Being a key player capable of taking leadership in Configuration
+Management. ·       Ensure the branching process and strategy are effective.  ·       Ensure daily and nightly builds
+are working properly. ·       Maintain and create build jobs in Jenkins. ·       Ensure stakeholders are informed about
+builds via build mails, visualization on monitors etc. ·       Order and manage build servers. ·       Maintain and
+improve build scripts. ·       Collaborations with different stakeholders. This includes global collaboration with
+development teams and managers in Stockholm as well as with colleagues in Bangalore, India.   Education & Experience
+Necessary For Success ·       B.Sc. or M.Sc. degree in relevant field.  ·       Programming background (to be able to do
+hands-on improvements). ·       Good experience in Python or similar scripting languages, Git, Jenkins, Jira,
+Linux/Unix. ·       Flexible ·       Good communication skills. ·       Very structured and organized as well as
+interested in process improvements. ·       English, written and spokenProfinder – erfarna konsulter inom IT, Teknik och
+Management  |  Orgnr. 556684-0616  | Tel: 08 750 49 00Stockholm  |  Göteborg  |  LinköpingVisa skrivbordsversion

@@ -1,0 +1,29 @@
+Till vår kund söker vi en Control System Engineer, enligt nedan: POSITION DESCRIPTION: Control System Engineer OBJECTIVE
+To develop and maintain the model based development tools/platform. Both support and run advanced development projects
+with model based design, signal processing and control algorithms development. ESSENTIAL DUTIES AND RESPONSIBILITIES •
+Develop and maintain the hardware and software of the development tools/platform. • Main responsible to drive the model
+based design development. • Propose Estimation and Control strategies within timing and costs targets set by Global
+Product Board. • Implement Estimation and Control strategies in simulation environment and on Rapid Control Prototyping
+system. • Define and implement signal processing algorithms.  • Give input to the AD Technology Roadmap for model base
+design and control technology. • Ensure that new product features and Concepts are in line with - global standards
+(performances, modularity, safety, etc) taking into consideration also regional requirements - product targets product
+architecture compatibility/feasibility (cost, IP,  quality, standards, and performance  for all variances foreseen ) •
+Write technical documentation and algorithms’ specs for transfer purposes towards Product Development (Global Technology
+Departments and Labs) • Lead AD projects as Project Leader • Work in heterogeneous team (chemical, physics, mechanics,
+hydraulics, thermodynamics, ...) POSITION REQUIREMENTS: KNOWLEDGE, SKILLS AND ABILITIES REQUIRED  KEY FUNCTIONAL
+QUALIFICATIONS • Software and electronics hardware / embedded systems competence is fundamental • Software programming
+skills (C, C++) • Significant experience in model based design - Matlab/Simulink (LabView is a plus)  • Qualified
+engineering experience with knowledge of classical and advanced control, with applications related to mechanics,
+thermodynamics and hydraulics. • Ability to apply theoretical knowledge to deriving practical user friendly, relevant
+and valued solutions. • Ability to work practically in the lab environment (‘hand on’) as well as to apply a scientific
+approach. GENERIC QUALIFICATIONS/SOFT SKILLS • Team oriented • Ability to take initiative and be proactive • Ability to
+work in an international environment • Ability to work in a matrix organization, building strong and valid relationships
+with all the functions in the organization • Ability to Build useful networks with key contacts internal as well as
+external • Attitude to continuous improvement in all the job areas • Creative and curious • Open minded • Positive
+thinking EDUCATION University degree in Systems and Control Engineering or similar fields. A Ph.D. is considered as a
+plus but it is not mandatory for the role. PREFERRED CAREER EXPERIENCE The ideal candidate has at least 2 to 4 of years
+of experience in an R&D environment in Dish Care Appliances as well as experience in leading projects and being part of
+project teams. REQUIRED LANGUAGES • English (business level)  • Knowledge of Italian is a plus but not mandatory for the
+role Start: 2018-01-15 Uppdragslängd: 2018-07-14 Placeringsort: 100% på plats hos kunden, StockholmProfinder – erfarna
+konsulter inom IT, Teknik och Management  |  Orgnr. 556684-0616  | Tel: 08 750 49 00Stockholm  |  Göteborg  | 
+LinköpingVisa skrivbordsversion

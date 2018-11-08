@@ -1,0 +1,18 @@
+Till vår kund i norrort söker vi en Core Network coordinator: Work description: Both Core network and OSS are very
+critical components for radio products development & verification. You will work with a geographically distributed
+cellular operator like core network located in different sites in Sweden, Western Europe, North America and Asia. The
+network consists today of legacy platforms/products and also a new virtualized environment is introduced in a test
+environment as a supplement to the legacy nodes. Monitoring OSS solutions consist of support/maintenance system for
+Radio nodes, run on remote servers. Team tasks today is to work with improvements/functionality based primarily on test
+organization requirements, also to coordinate work with critical Trouble reports issues towards the Core Network/OSS.
+The team is also responsible for maintaining a long term strategy for Core Network/OSS with regards to SW/HW.
+Upgrade/replacement. Also, very critical to coordinate with test organizations for their requirements.   Needed
+competence profile: - A full-time resource is needed to work with the geographically distributed cellular operator like
+core network/OSS supporting both Global ICT Center moves and daily operations work with an E2E perspective.  - A
+technical resource that can coordinate with stakeholders and manage both Core network and OSS/ENM based on the need of
+test organizations with requested HW and SW.  - Gather & analyze many product development requirements and understanding
+of E2E test setup in order to Support test organization with solutions that fit their test needs with a cost efficient
+and long term perspective.  - Good knowledge of SW development and project management process and procedures. -
+Additionally, knowledge in cloud technology is an advantage.  Start: Så snart som möjligt Uppdragslängd: 12 mån
+Placeringsort: Stockholm, norrortProfinder – erfarna konsulter inom IT, Teknik och Management  |  Orgnr. 556684-0616  |
+Tel: 08 750 49 00Stockholm  |  Göteborg  |  LinköpingVisa skrivbordsversion

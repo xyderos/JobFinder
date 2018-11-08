@@ -1,0 +1,32 @@
+The Connectivity group within R&D at the customer seeks a System Tester to join one of our system development teams. The
+team’s objective is to deliver awesome user experiences through apps and cloud backend solutions to our connected
+consumer appliances. Each team has a main product focus, but since the technology platform is shared, a lot of the work
+in the teams have to be synchronized between them. The teams have full-stack responsibility, together they need to
+master system architecture, backend development, app development on iOS and Android platform as well as system testing.
+In this position we are looking for someone that can take lead responsibility in system testing and making sure we
+design the products for testability. The candidate must however be willing and able to work in the other areas within
+the team’s responsibility as well.   We work side-by-side with our product management teams, project managers and UX
+design team. We foster a Build-Test-Learn environment where everyone plays an active part in creating awesome customer
+experiences. The company is committed to attract, keep and enable a diverse team to own and deliver in all defined
+areas. Gender equality is a key focus. When hiring consultants, we require among the final three candidates presented to
+us to be at least one female.   We are currently in the process of scaling our development from one to many in the
+product, project and team dimensions. In addition to developing product functionality, cooperation between the teams
+within the competence areas are required.   The work includes ·         Analyzing new needs together with product
+managers, UX and system designers ·         Producing test strategies, test plans and test cases ·         Performing
+manual tests, exploratory tests, load tests, etc. ·         Automating test and maintaining automated test suites
+·         Defining interfaces to separate “system under test” for efficient test automation ·         Participating in
+creation and maintenance of the development backlog ·         Communicating status daily to the rest of the team, and
+being open to helping out where most needed ·         Contributing to demos and other activities that are generating
+stakeholder feedback ·         Take an active part in team improvement work   Required competence and experience
+·         > 5 years of experience in testing IT systems, apps or products ·         > 3 years of experience in system
+IoT systems including apps ·         Knowledge of tools for app and system tests for IoT systems (Appium, MS Test,
+Jenkins) ·         Programming skills to write and maintain automated test suits (Python, C# etc) ·         Previously
+worked with full-stack product centered teams that deliver to multiple stakeholders ·         Experience of product
+development and maintenance in the same team ·         Proficient in choosing and maintaining a development toolchain
+for system testing IoT   Personality ·         Quick learner, energetic problem solver ·         Enthusiastic about
+creating and improving ways of working ·         Confident but without personal prestige ·         Thriving on
+cooperation, getting things done and awesome user experiences   Extra credits for ·         Build server and deploy
+management for test and production systems ·         Release management knowledge for test releases (Hockey App, Test
+Flight) and product releases (Google Play, Apple App Store) ·         Product development experience   Uppdragsstart:
+2018-06-18 Uppdragsslut: 2019-06-19Profinder – erfarna konsulter inom IT, Teknik och Management  |  Orgnr. 556684-0616 
+| Tel: 08 750 49 00Stockholm  |  Göteborg  |  LinköpingVisa skrivbordsversion

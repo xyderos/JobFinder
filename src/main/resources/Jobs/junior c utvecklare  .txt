@@ -1,0 +1,12 @@
+För kunds räkning söker vi en junior C-utvecklare enligt nedan:   The person in question will enjoy working in a team,
+and co-operate closely with HW designers, other SW teams, and project managers.   Duties include:         - Development
+of new software for low-level control of the robot's hardware, and associated production and test software.         -
+Maintenance of existing software.         - Troubleshooting of new functions as well as units returned from the field.
+        - Participation in planning of development activities.   The candidate should be/have: -      4-5 years
+experience in embedded programming, ideally in a commercial environment. -        Capable programmer of embedded systems
+using C. -        Experience with “board bring-up” for bare-bones hardware (i.e. no OS). -        Experience with
+distributed systems, i.e. communication with other boards. -        Experience with debugging HW and SW.
+-        Ideally experienced with battery management, motor control and touch-controlled HW. -     Ideally experienced
+with (or at least knowlege of) Jira, Git, Gerrit, IAR Workbench.   Start: Omgående Placeringsort: 100% på plats hos
+kunden, StockholmProfinder – erfarna konsulter inom IT, Teknik och Management  |  Orgnr. 556684-0616  | Tel: 08 750 49
+00Stockholm  |  Göteborg  |  LinköpingVisa skrivbordsversion

@@ -1,0 +1,23 @@
+Assignment description: For an interesting development project, we are seeking a senior Linux Programmer and Scrum Lead.
+You know Python at your fingertips and are comfortable with working with both back-end and frontend code. You can
+independently develop complete applications from start to finish. If you have worked with TDD this is an advantage.
+Working with version control is second nature to you. You are an experienced user of Unix / Linux CLI and have at least
+basic knowledge of how to configure network services such as DHCP, etc. You will work closely with a team of experienced
+senior Linux developers and report to a Team Leader. To ensure the high quality of your work requires that you document
+your work and is accurate.   Duties:﻿ • Scrum Master for the development team • Develop and integrate backend tools
+primarily in Python / Bash • Develop web-based frontend interface from low-level Linux (Python / Bash)   Required
+qualifications: • Higher academic education, engineering or equivalent • General platform knowledge from retail industry
+(POS) • At least 5 years of experience of larger complex solutions in Linux (Suse) • Minimum 5 years of documented work
+of code development • Very good knowledge of Python, Django, shell scripting • Fluency in Swedish and English in speech
+and writing • Very good knowledge of open source software and tools • Good knowledge of version control systems (Git)
+• Experience in system integration • Large scale automation of Linux-servers (e.g. Ansible, Puppet, Salt, Chef etc)
+• Experience in Java and Java Pos • Experience in EFT • Experience in HW platform integration (SUSE) • Experience of
+compiling and building and development environments • Preferably knowledge of test methodologies / preparation of test
+cases • Preferably knowledge of test automation • Preferably previously have developed web based management
+environments  • Agile Systems Development and as a Scrum Master.   Merit knowledge tools / technology / software:
+• Django • Javascript, Java POS • HTML5 • jQuery • Bootstrap • Jenkins CI • PyUnit / Python setuptools • CM such as
+salt, Ansible, Fabric • Open Build Service (openSUSE) • RPM packaging • DHCP / BOOTP / PXE / DNS • VMware • SUSE
+Enterprise Linux   Personal characteristics: • Very accurate • Comfortable to work on your own • Driven   You must
+submit two reference cases that show work experience in the above.   Start: asap tom: 31/10Profinder – erfarna konsulter
+inom IT, Teknik och Management  |  Orgnr. 556684-0616  | Tel: 08 750 49 00Stockholm  |  Göteborg  |  LinköpingVisa
+skrivbordsversion

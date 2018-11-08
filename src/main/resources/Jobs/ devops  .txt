@@ -1,0 +1,8 @@
+Vi söker en Devops #1 som förstår operations och gillar automatiseringar. B2B Cloud kommer ta över en hostingmiljö och
+behöver utveckla förståelsen för miljön genom att få fram statistik och automatisera flöden. Baskrav - Troligtvis ingår
+beredskap from övertagandedatum. Just nu planerat till 1 okt. Kan komma att skjutas på - Säkerhetsklassning kommer
+troligtvis göras och det kommer troligtvis vara kundkontakt - Svensk medborgare - Flytande svenska Önskad kompetens -
+Ansible, Python och andra programspråk - REST APIer, GIT - Agilt arbete i Scrum eller motsvarande Personliga egenskaper:
+social kompetens, kan arbeta i en aktivitetsbaserad arbetsmiljö Erfarenhet: ca 5år+ Startdag: Förhandlingsbart, inte
+efter 1 november Tittar efter i CV: Arbetat i större miljöerProfinder – erfarna konsulter inom IT, Teknik och
+Management  |  Orgnr. 556684-0616  | Tel: 08 750 49 00Stockholm  |  Göteborg  |  LinköpingVisa skrivbordsversion

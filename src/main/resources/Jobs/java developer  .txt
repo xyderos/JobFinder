@@ -1,0 +1,14 @@
+  Description:   - Develop Java systems used for experimentation (using AB testing) that are both scalable and reliable.
+- Integrating systems to data pipelines for analysis - Design and architecture of asynchronous microservices -
+Communicate effectively with your team: product, design and mobile engineers. - Actively participate and contribute with
+your team’s way of working and processes (people over process, though). - Pair program, review pull requests, share
+knowledge and collaborate with other backend engineers. - Drive and own initiatives to improve the department’s
+operations, tech excellence or productivity.   REQUIREMENTS - Familiar with asynchronous java, distributed databases,
+systems and microservices. - Conscious about testing (unit, integration, end to end, functional, system and load
+testing) - Has worked under agile methodologies - Has worked with Continuous Integration and Continuous Deployment. -
+Has been able to collaborate with other areas besides of engineering (product, design) - Proficiency in Java 8 -
+Experience with AB Testing and Google Cloud is a plus - Strong leadership, excellent communication skills and ability to
+act as an example of excellence for those around you - Ability to write readable, scalable, maintainable code -
+Commitment to quality - you know what it means to ship high quality code     Job Posting Start Date:   2018-11-05 Job
+Posting End Date:   2019-05-03Profinder – erfarna konsulter inom IT, Teknik och Management  |  Orgnr. 556684-0616  |
+Tel: 08 750 49 00Stockholm  |  Göteborg  |  LinköpingVisa skrivbordsversion

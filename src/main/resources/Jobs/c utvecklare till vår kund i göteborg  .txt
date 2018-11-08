@@ -1,0 +1,14 @@
+Till vår kund i Göteborg söker vi nu en C++ utvecklare, enligt nedan: Beskrivning En central del i projektet är den
+scriptmotor som behövs för att hantera skillnader i processen mellan olika fordonstyper, olika fabriker, olika
+mjukvaruversioner etc. Servern i fabriken skickar trådlöst ner XML-filer som beskriver olika steg som behöver utföras på
+ett flödesschemamässigt sätt, och dessa måste parsas och exekveras i en sorts modellbaserat system.   Uppdraget är att
+arbeta främst mot projektledaren i USA, och realisera denna scriptmotor.    Scriptmotorn skrivs i C++ och körs i
+slutändan på embedded Linux, men skall kunna kompileras på olika plattformar (Windows och olika Linuxsystem) med hjälp
+av ett porteringslager som vi har utvecklat. Utvecklingsmiljön är tänkt att vara baserad på Visual Studio, och VisualGDB
+används för cross compile när så behövs. Multitrådning är viktigt då instruktioner från XML-filerna skall kunna köras
+parallellt, vilket komplicerar systemet något.   Verktyg och teknologier som troligen kommer att användas är:Metodik:
+Agilt och scrum Start: Så snart som möjligt Uppdragslängd: 5-6 månader till en början Placeringsort: 100% på plats hos
+kunden, Göteborg För mer info gällande detta uppdrag/skicka konsultens/konsulternas CVn direkt till våra kollegor i
+Göteborg: Therese Hansson Rosenqvist Therese.hansson-rosenqvist@sylog.se Telefon 0733-565248 Peter Åsberg
+peter.asberg@sylog.se Telefon: 0724-503262Profinder – erfarna konsulter inom IT, Teknik och Management  |  Orgnr.
+556684-0616  | Tel: 08 750 49 00Stockholm  |  Göteborg  |  LinköpingVisa skrivbordsversion

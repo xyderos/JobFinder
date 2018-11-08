@@ -1,0 +1,7 @@
+  What you’ll do [Release Manager] - Communicate and coordinate with other teams, regarding critical bugs and other
+release tasks - Answer questions from other teams regarding releases - Perform a few manual tasks for each release -
+Work with the team to improve the release tooling and processes     Who you are: - You care about quality - You are
+experienced with or find it interesting with Costumer Service - You have an understanding of backend development. We use
+python as our main language - You care about improving the release processes and have a passion for automation     Job
+Posting Start Date:   2018-11-01 Job Posting End Date:   2019-05-31Profinder – erfarna konsulter inom IT, Teknik och
+Management  |  Orgnr. 556684-0616  | Tel: 08 750 49 00Stockholm  |  Göteborg  |  LinköpingVisa skrivbordsversion

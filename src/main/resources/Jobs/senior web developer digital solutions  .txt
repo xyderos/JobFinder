@@ -1,0 +1,18 @@
+Background The company is the leading insurance company in the Nordics and invest heavily in innovation and continuous
+improvement of existing applications. The company build IT applications and mobile solutions based on modern
+technologies where quality and user experience are key drivers. The majority of their large strategic projects are based
+on the .NET platform and are running agile development principles. At Digital Solutions they aim to be the development
+hub for all digital initiatives and solutions within the company, their current main responsibility is to develop and
+maintain the public web shops for the Nordic business.   The role We are now looking to reinforce one of our teams with
+a senior .NET developer. We seek an ambitious individual who wants to join our journey in crafting the digital
+experiences for the insurance business.  You will work in all parts of our applications and it’s important that you feel
+comfortable developing both backend and frontend solutions. We often explore new ways of working using tools and
+frameworks, apart from your core competence it is highly valued if you have an eye for quality and how to work with
+technical dept.   Desired Skills and Experience ·         Deep knowledge of C#, ASP.NET Web Forms and MVC
+·         Broad experience and knowledge of modern web technologies and frameworks ·         Solid JavaScript knowledge
+·         Familiar with JavaScript frameworks like React/Ember/Angular or similar ·         Good knowledge about how to
+apply the development principles and design patterns ·         Experience with Azure and Team Foundation Service
+·         Experience using SQL Server ·         Experience working with continuous integration and/or deployment
+·         Experience in test driven development ·         Experience in developing public web applications Start: Så
+snart som möjligt Placeringsort: 100% på plats hos kunden, StockholmProfinder – erfarna konsulter inom IT, Teknik och
+Management  |  Orgnr. 556684-0616  | Tel: 08 750 49 00Stockholm  |  Göteborg  |  LinköpingVisa skrivbordsversion

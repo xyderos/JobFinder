@@ -1,0 +1,8 @@
+You have previous experience as a .Net developer within a digitalized business.  We work on a daily basis with the
+following: SQL skills (MSSQL / Oracle preferred) Distributed solution landscape (Microservices oriented, multilayer
+solution design) .NET Visual Studio, 2015+ .NET 4.6 .NET MVC GIT SCRUM or similar NuGet We would be even happier if you
+know any or more about: Architectural principles and design patterns Entity framework EpiServer Microsoft Azure services
+( Or other cloud similar products) Service Bus Microsoft Azure Service Fabric Redis Apigee (or other API management
+platforms) Code First Database design Micro services TeamCity (Build Server) Octopus Deploy (Deploy Server) Hadoop Mongo
+DbProfinder – erfarna konsulter inom IT, Teknik och Management  |  Orgnr. 556684-0616  | Tel: 08 750 49 00Stockholm  | 
+Göteborg  |  LinköpingVisa skrivbordsversion

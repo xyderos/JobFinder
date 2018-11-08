@@ -1,0 +1,14 @@
+Senior .NET Systemutvecklare (heltid, 100%) Beskrivning Personen vi söker ska ha minst fem års erfarenhet av
+systemutveckling inom Microsoftområdet. Vi arbetar både med Windowsapplikationer och webb. Uppdraget innebär i huvudsak
+att arbeta med C#, SQL och WCF. Annan teknik vi använder är ASP.NET, WebAPI, Javascript/Typescript och Cloud/Azure men
+du behöver inte vara expert på allt. Utvecklingen görs i Visual Studio med stöd av TFS.   Konsulten ska ha dokumenterad
+erfarenhet från tidigare uppdrag inom stora och komplexa systemmiljöer. Kunskap inom sakförsäkring är en fördel men inte
+ett krav.   Vi söker en social person med en positiv grundinställning. Konsulten trivs med att arbeta både självständigt
+och i grupp men huvuddelen av jobbet kommer att utföras tillsammans med kollegor i ett mindre team. Totalt består teamet
+av ca 15 personer. Arbetet bedrivs enligt agil metodik.   Viktiga kompetensområden är: ·       Minst fem års erfarenhet
+av Microsoftutveckling ·       C#/SQL/WCF ·       ASP.NET/WebAPI/Javascript/Typescript ·       Cloud/Azure
+·       Visual Studio/.NET 4.5 och TFS ·       Erfarenhet av stora och komplexa systemmiljöer ·       Agila
+arbetssätt/Kanban/Scrum/SAFe   Tidplan för denna förfrågan: Vecka 48: Sista dag för att svara på förfrågan Vecka 49:
+Urval/intervjuer/förberedelser Vecka 50: Start före jul om möjligt. Alternativ start i januari. Start 2017-12-11 Slut
+2018-06-30 med möjlig förlängning Sista dag för att läsa CV 2017-11-30Profinder – erfarna konsulter inom IT, Teknik och
+Management  |  Orgnr. 556684-0616  | Tel: 08 750 49 00Stockholm  |  Göteborg  |  LinköpingVisa skrivbordsversion

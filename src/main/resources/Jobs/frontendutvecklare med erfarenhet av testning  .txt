@@ -1,0 +1,9 @@
+Till vår kund söker vi Frontendutvecklare med erfarenhet av testning, enligt nedan: Vi söker frontendutvecklare som även
+är beredd på att testa ·         Docker ·         Amazon Web Services (AWS) and E2C ·         Continuous integration
+(TeamCity, Jenkins etc) We use Jenkins ·         Pair programming Required individual skills ·         Java
+·         REST and JSON ·         Maven ·         Git ·         Web development in a JavaScript framework, Angular.js
+(Front-end developer) ·         Linux ·         Databases (SQL and NoSQL) ·         Experience working with agile
+methodologies Desired skills ·         Graphical design experience to be able to take sketchy wireframes and implement
+·         Usability ·         TDD ·         Python Start: Så snart som möjligt Uppdragslängd: Minst 6 månader
+Placeringsort: 100% på plats hos kunden, StockholmProfinder – erfarna konsulter inom IT, Teknik och Management  | 
+Orgnr. 556684-0616  | Tel: 08 750 49 00Stockholm  |  Göteborg  |  LinköpingVisa skrivbordsversion

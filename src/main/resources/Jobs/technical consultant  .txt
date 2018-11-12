@@ -1,7 +1,0 @@
-Till vår kund söker vi en Technical Consultant, enligt nedan:   Description:    We need a data migration specialist who
-can build macros for transformation of product data from 10 - 15 Excel files extracted from a legacy system database to
-30 import templates created by the new system. In order to create relations between the imported products (rows), the
-new system will import the files and export them supplemented with product ids to allow adding the relations for a
-subsequent import.   Profile We believe that the candidate:  Duration July 11 – September 14 with:Profinder – erfarna
-konsulter inom IT, Teknik och Management  |  Orgnr. 556684-0616  | Tel: 08 750 49 00Stockholm  |  Göteborg  | 
-LinköpingVisa skrivbordsversion

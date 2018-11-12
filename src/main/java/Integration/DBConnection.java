@@ -1,24 +1,57 @@
 package Integration;
 
+import Websites.ProFinder.ProFinderPathCreator;
+import Websites.eWork.eWorkPathCreator;
+
+import java.io.IOException;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
+import java.util.Timer;
+import java.util.TimerTask;
 
 public class DBConnection {
 
     private static final String URL = "jdbc:mysql://localhost:3306/contactdb";
 
-    private String user = "JOHAN";
+    private static final String admin = "test";
 
-    private String password = "OK";
+    private static final String password = "test";
 
-    private Connection conn=null;
+    private static final int PERIOD=1000*60*60*24;
 
-    public void INSERT(String user,String pass, String path) throws Exception{
+    private static final long DELAY= 0L;
 
-        if (!user.equals(this.user) && !password.equals(this.password)) return;
+    private static Timer timer = new Timer();
 
-        this.conn= DriverManager.getConnection(URL, user, password);
+    eWorkPathCreator e=new eWorkPathCreator();
+
+    ProFinderPathCreator p=new ProFinderPathCreator();
+
+    private void updateLists(String username, String password) {
+
+        TimerTask t = new TimerTask() {
+            @Override
+            public void run () {
+
+                try {
+                    e.toFiles();
+                    p.toFiles();
+                }
+                catch (IOException e) { e.printStackTrace();}
+            }
+        };
+
+        timer.schedule (t,DELAY , PERIOD);
+    }
+
+    public static void INSERT(String user,String pass, String path) throws Exception{
+
+        if (!user.equals(admin) && !pass.equals(password)) return;
+
+        //updateLists(user,pass);
+
+        Connection conn= DriverManager.getConnection(URL, user, password);
 
         String query = "INSERT INTO jobs (path) values (LOAD_FILE(?))";
 

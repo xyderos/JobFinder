@@ -1,5 +1,0 @@
-Manuell funktionstestning Automatisera funktionstestning i TCL-test ramverk Analysera fel som uppstår i våra
-automatiserade tester Erfarenhet av nätverksprotokoll helst då L2-protokoll, MEF-services och nätverkskunskap i
-allmänhet Erfarenhet inom test av optiska kommunikationsnätverk Noggrann och strukturerad Van att jobba i team enligt
-Agila metoderProfinder – erfarna konsulter inom IT, Teknik och Management  |  Orgnr. 556684-0616  | Tel: 08 750 49
-00Stockholm  |  Göteborg  |  LinköpingVisa skrivbordsversion

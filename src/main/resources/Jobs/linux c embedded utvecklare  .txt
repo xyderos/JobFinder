@@ -1,6 +1,0 @@
-Nu söker vi  efter en generalist, en embedded Linux-utvecklare som kan hjälpa till i kundens mellanlager, jobba tätt med
-deras interaktionsdesignteam men även i applikationslagret skrivet i C++. Följande erfararenheter är ett måste: - Linux
-- C++ - Cmake Följande kunskaper är meriterande: - Qt - QML - Kamera/Video-system - Perforce/Git - Jenkins -
-JIRA/Confluence - Unit test - Yocto - OpenGL Start: Så snart som möjligt Placeringsort: 100% på plats hos kunden,
-StockholmProfinder – erfarna konsulter inom IT, Teknik och Management  |  Orgnr. 556684-0616  | Tel: 08 750 49
-00Stockholm  |  Göteborg  |  LinköpingVisa skrivbordsversion

@@ -1,1 +1,0 @@
-• VMware ESXi (vSphere) • Nätverk/VLAN / SDN (NSX för vSphere)/VxLAN • vSAN samt ”traditionell” delad storage • ”Cloud” – PaaS IaaS Location: Linköping, 100% på plats hos kunden Start: asap Slut: 31/12 2018Profinder – erfarna konsulter inom IT, Teknik och Management  |  Orgnr. 556684-0616  | Tel: 08 750 49 00Stockholm  |  Göteborg  |  LinköpingVisa skrivbordsversion

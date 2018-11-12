@@ -1,9 +1,0 @@
-Work description: We believe you are a skilled senior Java Software Developer with at least 3 years of experience as a
-BE developer. Development tasks can include anything from software design, test automation to debugging software issues.
-Our teams are cross-functional and we follow DevOps and Agile practices. You will mainly work in a microservice
-architecture with Docker and Amazon Web Services.      Swedish is not a must but it is a big plus.       Required skills
-  · Java 8 · Experience working with Microservices  · REST and JSON · Git · Agile and DevOps methodologies · RabbitMQ or
-similar messaging    Desired skills · AWS · Docker · Dropwizard · Maven  · TeamCity/Jenkins  · Websockets · Test Driven
-Development  · Python · PACT · Linux · A mind-set focused on security since we are working in the security
-industry Profinder – erfarna konsulter inom IT, Teknik och Management  |  Orgnr. 556684-0616  | Tel: 08 750 49
-00Stockholm  |  Göteborg  |  LinköpingVisa skrivbordsversion

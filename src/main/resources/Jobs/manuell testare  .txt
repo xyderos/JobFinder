@@ -1,8 +1,0 @@
-Hos kunden behövs en resurs som kan utföra tester på maskin (PICKnPLACE). Konsulten ska testa i verkligheten de nya
-funktioner som införts i mjukvaran.  Konsulten ska ha ett helhetstänk och verkligen se funktionen och beteendet hos
-maskinen ur ett kundperspektiv. Man kommer arbeta med Krav & hur Funktionen fungerar i slutanvändarens situation. Andra
-arbetsuppgifter kommer vara utformning av testspecar och göra tidsuppskattningar på hur lång tid olika tester och
-testsviter tar. Uppdraget innebär ingen kodning. Dokumentering och testrapportering sker i Confluence och
-ärendehantering i Jira Konsulten ska ge info till SW-teamet om vad som behöver finjusteras så att Main-branchen ska
-fungera enligt kundernas behov. Start asapProfinder – erfarna konsulter inom IT, Teknik och Management  |  Orgnr.
-556684-0616  | Tel: 08 750 49 00Stockholm  |  Göteborg  |  LinköpingVisa skrivbordsversion

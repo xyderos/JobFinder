@@ -1,8 +1,0 @@
-Description: - The scope for the eCom & Customer project is to replace the existing Hybris based eCom solution with a
-frontend solution based on Episerver commerce, inRiver for product enrichment and a back-end solution based on AX.
-Requirements - BA/BS/MSc in Computer Engineering, Computer Science, Information Systems or related area. - At least 10+
-years of progressive experience in enterprise application architecture and/or evidence of exceptional ability in
-large IT transformation and implementation projects. Responsibilities: • Manage solution architect decisions and drive
-to conclusions through the development process (design, development, test, deployment and past production) Full time
-position, 1 Oct 2017 - 1 Oct 2018 Hör av dig för mer info!Profinder – erfarna konsulter inom IT, Teknik och Management 
-|  Orgnr. 556684-0616  | Tel: 08 750 49 00Stockholm  |  Göteborg  |  LinköpingVisa skrivbordsversion

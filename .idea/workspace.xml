@@ -2,612 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7c415f7-86f6-4c14-9229-84e5698db735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Konstantinos.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Konstantinos.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Driver/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Driver/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Integration/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Integration/DBConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Websites/ProFinder/Job.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderPathCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderLinkReceiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/.net backend developer focusing on api management  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/.net backend developer focusing on api management  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/.net backendutvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/.net backendutvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/.net developer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/.net developer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/.net fullstackutvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/.net fullstackutvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/.net utvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/.net utvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/.net utvecklare backend  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/.net utvecklare backend  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/2st sw utvecklare till göteborg  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/2st sw utvecklare till göteborg  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/admin supply konsult  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/admin supply konsult  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/administrativ projektledare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/administrativ projektledare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/android developer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/android developer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/androidutvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/androidutvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/app mjukvaruutvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/app mjukvaruutvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/application manager  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/application manager  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/apputvecklare som kan c  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/apputvecklare som kan c  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/architect  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/architect  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/arkitekt  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/arkitekt  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/aws arkitekt expert  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/aws arkitekt expert  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/back end engineer, java  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/back end engineer, java  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/backend developer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/backend developer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/backend engineer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/backend engineer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/backend infrastructure engineer   .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/backend infrastructure engineer   old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/backend utvecklare med go erfarenhet  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/backend utvecklare med go erfarenhet  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/backendutvecklare .net, c  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/backendutvecklare .net, c  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/big data sql specialist  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/big data sql specialist  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/bios utvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/bios utvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/build engineer build infrastructure architec  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/build engineer build infrastructure architec  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/business analyst  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/business analyst  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/business analyst to gdpr project  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/business analyst to gdpr project  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/c developer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/c developer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/c sql utvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/c sql utvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/c utvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/c utvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/c utvecklare med intresse för matematik  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/c utvecklare med intresse för matematik  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/c utvecklare till vår kund i göteborg  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/c utvecklare till vår kund i göteborg  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/change manager  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/change manager  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/cm  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/cm  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/cm till kund i stockholm  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/cm till kund i stockholm  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/coachande utvecklare  javascript frontend) .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/coachande utvecklare  javascript frontend) old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/configurations manager  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/configurations manager  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/control system engineer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/control system engineer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/conversion manager digital analyst  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/conversion manager digital analyst  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/core network coordinator  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/core network coordinator  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/data scientist analyst  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/data scientist analyst  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/dataanalytiker bi  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/dataanalytiker bi  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/databas administrator senior specialist  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/databas administrator senior specialist  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/database architect  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/database architect  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/database engineer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/database engineer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/databaskonsult  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/databaskonsult  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/databaskonsulter  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/databaskonsulter  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/delivery lead  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/delivery lead  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/delivery manager  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/delivery manager  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/design systems engineer ios  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/design systems engineer ios  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/developer c  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/developer c  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/developer java  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/developer java  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/developer java ee  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/developer java ee  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/developer mobile sdk ios  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/developer mobile sdk ios  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/devops  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/devops  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/devops engineer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/devops engineer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/devops konsult  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/devops konsult  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/devops linux sysadmin  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/devops linux sysadmin  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/devops teknisk cm  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/devops teknisk cm  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/devops utvecklare  java8) .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/devops utvecklare  java8) old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/devopsare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/devopsare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/digital architect  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/digital architect  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/drifttekniker med beredskap  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/drifttekniker med beredskap  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/driven scrum master  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/driven scrum master  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/elasticsearch  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/elasticsearch  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/electronic hardware development engineer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/electronic hardware development engineer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/elektronikonstruktör vhdl  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/elektronikonstruktör vhdl  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/embedded c utvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/embedded c utvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/embedded linuxexpert  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/embedded linuxexpert  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/embedded utvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/embedded utvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/embedded utvecklare till kund i norrort  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/embedded utvecklare till kund i norrort  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/energy performance expert  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/energy performance expert  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/engineer cloud integration  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/engineer cloud integration  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/erfaren frontendutvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/erfaren frontendutvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/erfaren ip network engineer designer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/erfaren ip network engineer designer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/erfaren java utvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/erfaren java utvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/experienced backend engineer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/experienced backend engineer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/floor manager driftledare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/floor manager driftledare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/fpga utvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/fpga utvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/front end javascript developer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/front end javascript developer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/frontend developer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/frontend developer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/frontendutvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/frontendutvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/frontendutvecklare med erfarenhet av testning  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/frontendutvecklare med erfarenhet av testning  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/fullstack utvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/fullstack utvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/fw utvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/fw utvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/hw designer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/hw designer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/hw försörjning och leverans  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/hw försörjning och leverans  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/hw nära sw utvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/hw nära sw utvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/hw nära utvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/hw nära utvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/hw utvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/hw utvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/infrastructure developer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/infrastructure developer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/integratör  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/integratör  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ios  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ios  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/iot app utvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/iot app utvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/iot ios developer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/iot ios developer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ip network och configuration konsult  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ip network och configuration konsult  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/iptv  javascript  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/iptv  javascript  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/it environment coordinator till linköping  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/it environment coordinator till linköping  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/it planning coordinator project leader technical  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/it planning coordinator project leader technical  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/it process developer redaktör till linköping  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/it process developer redaktör till linköping  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/it project manager siam  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/it project manager siam  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/it project manager, within siam service integration  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/it project manager, within siam service integration  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/it security consultant  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/it security consultant  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/it specialist inom säkerhet kring outsourcing  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/it specialist inom säkerhet kring outsourcing  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/itil asset and configuration manager  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/itil asset and configuration manager  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/java developer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/java developer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/java developer, backend developer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/java developer, backend developer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/java ee utvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/java ee utvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/java j2ee utvecklare med fokus på iot plattformar  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/java j2ee utvecklare med fokus på iot plattformar  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/java utvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/java utvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/javaee utvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/javaee utvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/javautvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/javautvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/javautvecklare arkitekt  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/javautvecklare arkitekt  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/javautvecklare med fokus på backend och aws  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/javautvecklare med fokus på backend och aws  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/javautvecklare med telekomerfarenhet  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/javautvecklare med telekomerfarenhet  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/junior c utvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/junior c utvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/konsult med erfarenhet av hr och ad  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/konsult med erfarenhet av hr och ad  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/konsulter inom webb  react) samt java python  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/konsulter inom webb  react) samt java python  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/kravstrateg  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/kravstrateg  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/labview konsult  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/labview konsult  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/labview utvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/labview utvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/lead developer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/lead developer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/lead frontend developer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/lead frontend developer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/linux c embedded utvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/linux c embedded utvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/linux developer team lead  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/linux developer team lead  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/linux devops engineer   .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/linux devops engineer   old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/linux konsult med beredskap  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/linux konsult med beredskap  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/linux system specialist  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/linux system specialist  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/linux utvecklare med minst 5 års erfarenhet  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/linux utvecklare med minst 5 års erfarenhet  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/linux yocto expert  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/linux yocto expert  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/lösningsarkitekt  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/lösningsarkitekt  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/maintenance konsult  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/maintenance konsult  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/manuell testare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/manuell testare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/mekanikkonstruktör  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/mekanikkonstruktör  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/mekatronikingenjör  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/mekatronikingenjör  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/mjukvaruutvecklare c  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/mjukvaruutvecklare c  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/mjukvaruutvecklare java  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/mjukvaruutvecklare java  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/mjukvaruutvecklare med erfarenhet av opc ua  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/mjukvaruutvecklare med erfarenhet av opc ua  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/network designer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/network designer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/network engineer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/network engineer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/network planner  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/network planner  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/node.js utvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/node.js utvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/nätverkstekniker  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/nätverkstekniker  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/nätverkstekniker ccnp  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/nätverkstekniker ccnp  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/nätverkstekniker, accessnät  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/nätverkstekniker, accessnät  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ombordtestare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ombordtestare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/onsite tekniker med körkort  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/onsite tekniker med körkort  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/operativ projektledare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/operativ projektledare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/product manager  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/product manager  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/product owner  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/product owner  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/product specialist installerad bas service engineering  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/product specialist installerad bas service engineering  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/program manager iot .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/program manager iot old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/project manager  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/project manager  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/project manager gdpr  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/project manager gdpr  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/projektledare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/projektledare  it) inom gdpr  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/projektledare  it) inom gdpr  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/projektledare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/projektledare för integrationsprojekt  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/projektledare för integrationsprojekt  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/projektledare inom it och digitalisering  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/projektledare inom it och digitalisering  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/projektledare till it utvecklingsprojekt  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/projektledare till it utvecklingsprojekt  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/qa  testledare testare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/qa  testledare testare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/qa engineer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/qa engineer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/qa engineer  test specialist)  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/qa engineer  test specialist)  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/qa manager  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/qa manager  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/qa specialist  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/qa specialist  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/qa technical tester  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/qa technical tester  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/qa testare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/qa testare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/quality assurance engineer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/quality assurance engineer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ran configurator ltesim uctool  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ran configurator ltesim uctool  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/regulatory affairs general  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/regulatory affairs general  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/release manager  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/release manager  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/release test manager  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/release test manager  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/requirement analyst  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/requirement analyst  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/requirement engineer systems architect  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/requirement engineer systems architect  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/safety coordinator  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/safety coordinator  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/salesforce utvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/salesforce utvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/salesforce utvecklare som kan apex .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/salesforce utvecklare som kan apex old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/scrum master  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/scrum master  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/scrum master agile lead  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/scrum master agile lead  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/scrum master med erfarenhet av embedded utveckling  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/scrum master med erfarenhet av embedded utveckling  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/scrum master som kan c  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/scrum master som kan c  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/scrum master team leader  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/scrum master team leader  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/scrummaster  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/scrummaster  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior app utvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior app utvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior bi utvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior bi utvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior bi web analytiker  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior bi web analytiker  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior business analyst  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior business analyst  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior c utvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior c utvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior dba  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior dba  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior eus infrastructure architect  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior eus infrastructure architect  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior frontendutvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior frontendutvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior it arkitekt  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior it arkitekt  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior it projektledare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior it projektledare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior java backend developer   .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior java backend developer   old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior javautvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior javautvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior kvalitetsledare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior kvalitetsledare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior projektledare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior projektledare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior software developer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior software developer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior technical project manager  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior technical project manager  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior test developer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior test developer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior utvecklare devops  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior utvecklare devops  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior web developer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior web developer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior web developer digital solutions  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior web developer digital solutions  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior webutvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/senior webutvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/seniora android xamarinutvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/seniora android xamarinutvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/seo manager  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/seo manager  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/snd  software defined network) utvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/snd  software defined network) utvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/software developer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/software developer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/software engineer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/software engineer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/software test engineer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/software test engineer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/solution architect  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/solution architect  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/solution architect network till linköping  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/solution architect network till linköping  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/solution architect storage till linköping  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/solution architect storage till linköping  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/solution architect unix linuxtill linköping  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/solution architect unix linuxtill linköping  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/solution architect windows till linköping  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/solution architect windows till linköping  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/sql utvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/sql utvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/supporttekniker med nätkunskaper  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/supporttekniker med nätkunskaper  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/sw developer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/sw developer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/sw konsult  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/sw konsult  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/sw project manager  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/sw project manager  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/system engineer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/system engineer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/system engineer consultants  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/system engineer consultants  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/system engineer hyper v expert  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/system engineer hyper v expert  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/system integrationstestare för långt uppdrag  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/system integrationstestare för långt uppdrag  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/system integrator  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/system integrator  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/system specialist ip access configuration operations  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/system specialist ip access configuration operations  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/system tester – consumer iot products  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/system tester – consumer iot products  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/systemarkitekt  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/systemarkitekt  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/systemdesigner backend utvecklare för iot  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/systemdesigner backend utvecklare för iot  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/systemtestare inom iot  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/systemtestare inom iot  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/systemutvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/systemutvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/systemutvecklare inom c  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/systemutvecklare inom c  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/systemutvecklare med yocto erfarenhet  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/systemutvecklare med yocto erfarenhet  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/systemägare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/systemägare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/söker databaskonsult, oracle  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/söker databaskonsult, oracle  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/team leader scrum master  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/team leader scrum master  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/teamledare network planning  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/teamledare network planning  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/tech integration manager  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/tech integration manager  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/tech lead developer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/tech lead developer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/technical consultant  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/technical consultant  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/technical program manager  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/technical program manager  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/teknisk pl  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/teknisk pl  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/teknisk projekt cm  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/teknisk projekt cm  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/teknisk projektledare koordinator  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/teknisk projektledare koordinator  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/teknisk qa  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/teknisk qa  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/teknisk testare testande testledare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/teknisk testare testande testledare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/test engineer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/test engineer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/test environment engineer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/test environment engineer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/test och uppdragsledare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/test och uppdragsledare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/test qa  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/test qa  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/test specialist  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/test specialist  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/test specialist  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/test specialist  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/testare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/testare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/testare av appar  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/testare av appar  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/testare testledare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/testare testledare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/testautomatiserare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/testautomatiserare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/testautomatiserare minst 5 års erfarenhet  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/testautomatiserare minst 5 års erfarenhet  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/tester  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/tester  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/teststrateg  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/teststrateg  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/testutvecklare som kan python  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/testutvecklare som kan python  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/utvecklande systemarkitekt  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/utvecklande systemarkitekt  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/utvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/utvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/utvecklare arkitekt  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/utvecklare arkitekt  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/utvecklare c  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/utvecklare c  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/utvecklare c, java  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/utvecklare c, java  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/utvecklare go, react  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/utvecklare go, react  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/utvecklare inom ai  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/utvecklare inom ai  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/utvecklare inom python java yang och networking  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/utvecklare inom python java yang och networking  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/utvecklare inom webb och mobila tjänster  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/utvecklare inom webb och mobila tjänster  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/utvecklare linux  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/utvecklare linux  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/utvecklare med erfarenhet av big data och machine learning  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/utvecklare med erfarenhet av big data och machine learning  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/utvecklare som kan docker kubernetes  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/utvecklare som kan docker kubernetes  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ux designer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ux designer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ux product design  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ux product design  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ux product designer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ux product designer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/vcloud director expert  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/vcloud director expert  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/visma business utvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/visma business utvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/web developer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/web developer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/web engineer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/web engineer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/web gui engineer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/web gui engineer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/webb analytiker  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/webb analytiker  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/windows sysadmin  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/windows sysadmin  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/windowstekniker  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/windowstekniker  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/windowstekniker som kan nät och utveckling  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/windowstekniker som kan nät och utveckling  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/windowsutvecklare  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/windowsutvecklare  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/windowsutvecklare med fokus på säkerhet  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/windowsutvecklare med fokus på säkerhet  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ android developer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ android developer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ devops  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ devops  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ embedded utvecklare med fokus på c  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ embedded utvecklare med fokus på c  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ front end developer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ front end developer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ fullstack developer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ fullstack developer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ project manager  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ project manager  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ projektledare team lead  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ projektledare team lead  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ requirementanalyst till linköping  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ requirementanalyst till linköping  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ senior ios developer  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ senior ios developer  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ utvecklare som kan docker och kubernetes  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/ utvecklare som kan docker och kubernetes  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/­­­­­­­­­­­­­solution architect virtualization till linköping  .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Jobs/­­­­­­­­­­­­­solution architect virtualization till linköping  old.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Driver/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Driver/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Integration/DBConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Integration/DBConnection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Websites/ProFinder/Job.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Websites/ProFinder/ProFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Websites/Interfaces/Files.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Websites/Interfaces/Files.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderPathCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderPathCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkLinkReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkLinkReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkPathCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkPathCreator.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -681,32 +82,33 @@
     <session id="-1169117018">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="19" />
+          <entry key="java" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="19" />
+          <entry key="JAVA" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="125" />
-          <entry key="java" value="707" />
+          <entry key="java" value="1315" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="707" />
+          <entry key="JAVA" value="1315" />
           <entry key="PLAIN_TEXT" value="125" />
         </counts>
       </usages-collector>
@@ -717,7 +119,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
+            <state>
               <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
             </state>
           </provider>
@@ -726,11 +128,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Driver/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state>
+              <caret column="15" selection-start-column="15" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -740,8 +139,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -769,17 +168,19 @@
         <option value="$PROJECT_DIR$/src/main/java/Websites/API/ExtractLinks.java" />
         <option value="$PROJECT_DIR$/src/main/java/Websites/API/Links.java" />
         <option value="$PROJECT_DIR$/src/main/java/Websites/eWork/eWork.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Websites/Interfaces/Links.java" />
         <option value="$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinder.java" />
         <option value="$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderJobs.java" />
         <option value="$PROJECT_DIR$/src/main/java/Websites/ProFinder/LinkReceiver.java" />
         <option value="$PROJECT_DIR$/src/main/java/Websites/ProFinder/PathCreator.java" />
         <option value="$PROJECT_DIR$/src/main/java/Websites/eWork/PathCreator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Driver/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Websites/Interfaces/Files.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderPathCreator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Websites/Interfaces/Links.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Websites/Interfaces/Helpers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkLinkReceiver.java" />
         <option value="$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkPathCreator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Websites/Interfaces/Files.java" />
         <option value="$PROJECT_DIR$/src/main/java/Integration/DBConnection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderPathCreator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Driver/Main.java" />
       </list>
     </option>
   </component>
@@ -866,33 +267,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Websites" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="jobfinder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jobfinder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Websites" type="462c0819:PsiDirectoryNode" />
-              <item name="eWork" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jobfinder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jobfinder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Websites" type="462c0819:PsiDirectoryNode" />
-              <item name="Interfaces" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jobfinder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jobfinder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Websites" type="462c0819:PsiDirectoryNode" />
-              <item name="ProFinder" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -904,7 +278,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542037614042" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542057644869" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -986,17 +360,18 @@
       <workItem from="1541949920798" duration="1325000" />
       <workItem from="1542033215467" duration="4107000" />
       <workItem from="1542037676739" duration="32000" />
+      <workItem from="1542052090738" duration="2781000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37975000" />
+    <option name="totallyTimeSpent" value="40756000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30048466" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30533117" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1087,25 +462,79 @@
     <entry file="file://$PROJECT_DIR$/JobFinder.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderLinkReceiver.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-592">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        <state>
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkLinkReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#976#977#0" expanded="true" />
-            <element signature="e#1076#1077#0" expanded="true" />
-            <element signature="e#1121#1122#0" expanded="true" />
-            <element signature="e#1177#1178#0" expanded="true" />
+            <element signature="e#1597#1598#0" expanded="true" />
+            <element signature="e#1653#1654#0" expanded="true" />
+            <element signature="e#2629#2630#0" expanded="true" />
+            <element signature="e#2686#2687#0" expanded="true" />
+            <element signature="e#2738#2739#0" expanded="true" />
+            <element signature="e#2795#2796#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderLinkReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#985#986#0" expanded="true" />
+            <element signature="e#1085#1086#0" expanded="true" />
+            <element signature="e#1130#1131#0" expanded="true" />
+            <element signature="e#1186#1187#0" expanded="true" />
+            <element signature="e#1679#1680#0" expanded="true" />
+            <element signature="e#1736#1737#0" expanded="true" />
             <marker date="1542037142003" expanded="true" signature="1245:1299" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/Interfaces/Helpers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Websites/Interfaces/Links.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="105">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderPathCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#432#489#0" expanded="true" />
+            <element signature="e#2448#2449#0" expanded="true" />
+            <element signature="e#2505#2506#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Integration/DBConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="34" column="32" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1114,74 +543,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Websites/Interfaces/Files.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkLinkReceiver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1592#1593#0" expanded="true" />
-            <element signature="e#1648#1649#0" expanded="true" />
-            <element signature="e#2624#2625#0" expanded="true" />
-            <element signature="e#2681#2682#0" expanded="true" />
-            <element signature="e#2733#2734#0" expanded="true" />
-            <element signature="e#2790#2791#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderPathCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1245">
-          <caret line="93" column="8" selection-start-line="93" selection-start-column="8" selection-end-line="93" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Integration/DBConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="435">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkPathCreator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1560">
-          <caret line="106" column="5" selection-start-line="106" selection-start-column="5" selection-end-line="106" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Driver/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
         </state>
       </provider>
     </entry>

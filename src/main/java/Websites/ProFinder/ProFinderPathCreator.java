@@ -1,6 +1,7 @@
 package Websites.ProFinder;
 
 import Websites.Interfaces.Files;
+import Websites.Interfaces.Helpers;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -12,11 +13,10 @@ import java.util.regex.Pattern;
 
 import static org.apache.commons.lang3.text.WordUtils.*;
 
-public class ProFinderPathCreator implements Files {
+public class ProFinderPathCreator extends Helpers implements Files {
 
+    @SuppressWarnings("MismatchedQueryAndUpdateOfCollection")
     private static HashSet<File> files=new HashSet<>();
-
-
 
     private static final String PARENTHESIS="(";
 
@@ -91,11 +91,9 @@ public class ProFinderPathCreator implements Files {
     @Override
     public void formatFile(String path) throws IOException{
 
-        String fname= ProFinderPathCreator.PATH+extractName(path)+TXT;
+        BufferedReader br=new BufferedReader(new FileReader(ProFinderPathCreator.PATH+extractName(path)+TXT));
 
-        BufferedReader br=new BufferedReader(new FileReader(fname));
-
-        fname=fname.replaceAll(Pattern.quote(OLD),EMPTY);
+        String fname=ProFinderPathCreator.PATH+extractName(path)+TXT.replaceAll(Pattern.quote(OLD),EMPTY);
 
         BufferedWriter out=new BufferedWriter(new FileWriter(fname));
 

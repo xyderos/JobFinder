@@ -24,9 +24,9 @@ public class DBConnection {
 
     private static Timer timer = new Timer();
 
-    eWorkPathCreator e=new eWorkPathCreator();
+    private eWorkPathCreator e=new eWorkPathCreator();
 
-    ProFinderPathCreator p=new ProFinderPathCreator();
+    private ProFinderPathCreator p=new ProFinderPathCreator();
 
     private void updateLists(String username, String password) {
 
@@ -35,7 +35,7 @@ public class DBConnection {
             public void run () {
 
                 try {
-                    e.toFiles();
+                    e.toFiles(username,password);
                     p.toFiles();
                 }
                 catch (IOException e) { e.printStackTrace();}

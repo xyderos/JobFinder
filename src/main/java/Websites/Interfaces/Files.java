@@ -1,7 +1,6 @@
 package Websites.Interfaces;
 
 import java.io.IOException;
-import java.util.HashSet;
 
 public interface Files {
 
@@ -28,8 +27,5 @@ public interface Files {
     void toFiles() throws IOException;
 
     void toFiles(String user, String password) throws IOException;
-
-    void formatFile(String path) throws IOException;
-
 
 }

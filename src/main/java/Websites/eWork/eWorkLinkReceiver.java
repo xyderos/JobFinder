@@ -24,11 +24,21 @@ public class eWorkLinkReceiver implements Links {
 
     private static final String PASS="user_password";
 
+    private static final String LOGIN="login";
+
+    private static final String LOGIN_ANSWER="Login";
+
+    private static final String ACTION="action";
+
+    private static final String ACTION_ANSWER="login_nowin";
+
     private static final String KEY="abs:href";
 
     private static final String QUERY="a[href]";
 
     private static final String STRING_FORMAT="%s";
+
+    private static final String PROJECT_ID="PROJECT_ID";
 
     @Override
     public void getLinks(String name, String password)throws IOException {
@@ -66,7 +76,7 @@ public class eWorkLinkReceiver implements Links {
     @Override
     public void deleteWrong(){
 
-        set.removeIf(s -> !s.contains(FPGA) || !s.contains(ASIC));
+        set.removeIf(s -> !s.contains(PROJECT_ID));
 
     }
 
@@ -80,14 +90,15 @@ public class eWorkLinkReceiver implements Links {
 
         Connection.Response login =
                 Jsoup.connect(LOG_IN)
-                .data(EMAIL,name)
-                .data(PASS,password)
-                .cookies(initial.cookies())
-                .method(Connection.Method.POST)
-                .execute();
+                        .data(EMAIL,name)
+                        .data(PASS,password)
+                        .data(LOGIN,LOGIN_ANSWER)
+                        .data(ACTION,ACTION_ANSWER)
+                        .cookies(initial.cookies())
+                        .method(Connection.Method.POST)
+                        .execute();
 
         return  Jsoup.connect(url).cookies(login.cookies()).get();
-
     }
 
     @Override

@@ -1,6 +1,7 @@
 package Websites.eWork;
 
 import Websites.Interfaces.Files;
+import Websites.Interfaces.Helpers;
 import Websites.ProFinder.ProFinderPathCreator;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -13,7 +14,7 @@ import java.util.regex.Pattern;
 
 import static org.apache.commons.lang3.text.WordUtils.wrap;
 
-public class eWorkPathCreator implements Files {
+public class eWorkPathCreator extends Helpers implements Files {
 
     private static HashSet<File> files=new HashSet<>();
 
@@ -97,8 +98,6 @@ public class eWorkPathCreator implements Files {
         out.write(wrap(s, CHAR_PER_LINE, null, false));
 
         out.close();
-
-        System.out.println("HI");
     }
 
     @Override

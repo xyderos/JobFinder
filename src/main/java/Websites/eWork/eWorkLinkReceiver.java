@@ -5,6 +5,7 @@ import org.jsoup.Connection;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
+import org.jsoup.nodes.FormElement;
 import org.jsoup.select.Elements;
 
 import java.io.IOException;
@@ -20,15 +21,15 @@ public class eWorkLinkReceiver implements Links {
 
     private static final String LOG_IN="https://myework.eworkgroup.com/Login.cfm";
 
-    private static final String EMAIL="user_email";
+    private static final String BUTTON="[class$=btn btn-primary btn-login]";
 
-    private static final String PASS="user_password";
+    private static final String B_ANSWER="Logga in";
 
-    private static final String LOGIN="login";
+    private static final String EMAIL="[name$=user_email]";
 
-    private static final String LOGIN_ANSWER="Login";
+    private static final String PASS="[name$=user_password]";
 
-    private static final String ACTION="action";
+    private static final String ACTION="[name$=action]";
 
     private static final String ACTION_ANSWER="login_nowin";
 
@@ -40,21 +41,30 @@ public class eWorkLinkReceiver implements Links {
 
     private static final String PROJECT_ID="PROJECT_ID";
 
+    private static final String MOZILLA="Mozilla";
+
+    private static final String FORM="form[name=login]";
+
     @Override
     public void getLinks(String name, String password)throws IOException {
 
-        Document doc1 =createConnection(name,password,FPGA);
+        retrieveLinks(name, password);
+    }
 
-        Elements elements1=doc1.select(QUERY);
+    private void retrieveLinks(String name, String password) throws IOException {
 
-        for (Element e : elements1)set.add(toString(e.attr(KEY)));
+        jobs(name, password, ASIC);
 
-        Document doc2 =createConnection(name,password,ASIC);
+        jobs(name, password, FPGA);
+    }
 
-        Elements elements2=doc2.select(QUERY);
+    private void jobs(String name, String password, String subSite) throws IOException {
 
-        for (Element e : elements2) set.add(toString(e.attr(KEY)));
+        Document doc =createConnection(name,password, subSite);
 
+        Elements elements=doc.select(QUERY);
+
+        for (Element e1 : elements) set.add(toString(e1.attr(KEY)));
     }
 
     @Override
@@ -83,22 +93,37 @@ public class eWorkLinkReceiver implements Links {
     @Override
     public Document createConnection(String name, String password, String url) throws IOException {
 
-        Connection.Response initial =
+        Connection.Response response =
                 Jsoup.connect(LOG_IN)
+                        .userAgent(MOZILLA)
                         .method(Connection.Method.GET)
                         .execute();
 
-        Connection.Response login =
-                Jsoup.connect(LOG_IN)
-                        .data(EMAIL,name)
-                        .data(PASS,password)
-                        .data(LOGIN,LOGIN_ANSWER)
-                        .data(ACTION,ACTION_ANSWER)
-                        .cookies(initial.cookies())
-                        .method(Connection.Method.POST)
-                        .execute();
+        Document responseDocument = response.parse();
 
-        return  Jsoup.connect(url).cookies(login.cookies()).get();
+        Element potentialForm = responseDocument.select(FORM).first();
+
+        FormElement form = (FormElement) potentialForm;
+
+        fillForm(form, EMAIL, name, PASS, password);
+
+        fillForm(form, ACTION, ACTION_ANSWER, BUTTON, B_ANSWER);
+
+        Document searchResults = form.submit().cookies(response.cookies()).post();
+
+        assert (searchResults!=null);
+
+        return Jsoup.connect(url).cookies(response.cookies()).get();
+    }
+
+    private void fillForm(FormElement form, String action2, String actionAnswer, String button, String bAnswer) {
+        Element action=form.select(action2).first();
+
+        action.val(actionAnswer);
+
+        Element btn = form.select(button).first();
+
+        btn.val(bAnswer);
     }
 
     @Override
@@ -110,4 +135,14 @@ public class eWorkLinkReceiver implements Links {
     public HashSet<String> getSet(){
         throw new UnsupportedOperationException();
     }
+
+    public static void main(String[] args) throws Exception {
+
+        eWorkLinkReceiver e= new eWorkLinkReceiver();
+
+        System.out.println(e.getSet("forslundaren@hotmail.com","1Testing2_"));
+
+    }
 }
+
+

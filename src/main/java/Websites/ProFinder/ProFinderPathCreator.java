@@ -2,21 +2,17 @@ package Websites.ProFinder;
 
 import Websites.Interfaces.Files;
 import Websites.Interfaces.Helpers;
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
-import org.jsoup.select.Elements;
 
 import java.io.*;
 import java.util.HashSet;
 import java.util.regex.Pattern;
 
-import static org.apache.commons.lang3.text.WordUtils.*;
-
 public class ProFinderPathCreator extends Helpers implements Files {
 
     @SuppressWarnings("MismatchedQueryAndUpdateOfCollection")
     private static HashSet<File> files=new HashSet<>();
+
+    private static final String DASH="-";
 
     private static final String PARENTHESIS="(";
 
@@ -31,46 +27,17 @@ public class ProFinderPathCreator extends Helpers implements Files {
 
         String t=url.substring(url.indexOf(DELIM)+11,url.indexOf(REF));
 
-        if (t.contains(PARENTHESIS)) t=t.replaceAll(Pattern.quote(PARENTHESIS),SPACE);
-
-        if (t.contains(DASH)) t=t.replaceAll(Pattern.quote(DASH),SPACE);
-
-        t = new StringBuilder(t).insert(t.length(), OLD).toString();
-
-        return t;
-
+        return setDetails(t,PARENTHESIS,DASH);
     }
 
     @Override
-    public String createAndWrite(String url)throws IOException{
+    public String createAndWrite(String url) throws IOException{
 
         String name=extractName(url);
 
         String fileName= ProFinderPathCreator.PATH+name+TXT;
 
-        File file=new File(fileName);
-
-        boolean created = file.createNewFile();
-
-        assert (created);
-
-        BufferedWriter out=new BufferedWriter(new FileWriter(fileName));
-
-        Document doc = Jsoup.connect(url).get();
-
-        Elements paragraphs = doc.select(PARAGRAPH);
-
-        for(Element p : paragraphs)  {
-
-            String s=p.text();
-
-            out.write(s);
-
-        }
-
-        out.close();
-
-        return fileName;
+        return create(fileName,url);
     }
 
     @Override
@@ -93,15 +60,9 @@ public class ProFinderPathCreator extends Helpers implements Files {
 
         BufferedReader br=new BufferedReader(new FileReader(ProFinderPathCreator.PATH+extractName(path)+TXT));
 
-        String fname=ProFinderPathCreator.PATH+extractName(path)+TXT.replaceAll(Pattern.quote(OLD),EMPTY);
+        String fileName=ProFinderPathCreator.PATH+extractName(path)+TXT.replaceAll(Pattern.quote(OLD),EMPTY);
 
-        BufferedWriter out=new BufferedWriter(new FileWriter(fname));
-
-        String s=br.readLine();
-
-        out.write(wrap(s, CHAR_PER_LINE, null, false));
-
-        out.close();
+        writeFile(fileName,br);
     }
 
     @Override

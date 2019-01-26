@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7c415f7-86f6-4c14-9229-84e5698db735" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Konstantinos.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Driver/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Driver/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Websites/Interfaces/Files.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Websites/Interfaces/Files.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Websites/Interfaces/Helpers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Websites/Interfaces/Helpers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderPathCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderPathCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkLinkReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkLinkReceiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkPathCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkPathCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Driver/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Driver/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Integration/DBConnection$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Integration/DBConnection$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Integration/DBConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Integration/DBConnection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Websites/Interfaces/Files.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Websites/Interfaces/Files.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Websites/ProFinder/ProFinderLinkReceiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Websites/ProFinder/ProFinderLinkReceiver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Websites/ProFinder/ProFinderPathCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Websites/ProFinder/ProFinderPathCreator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Websites/eWork/eWorkLinkReceiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Websites/eWork/eWorkLinkReceiver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Websites/eWork/eWorkPathCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Websites/eWork/eWorkPathCreator.class" afterDir="false" />
-    </list>
+    <list default="true" id="e7c415f7-86f6-4c14-9229-84e5698db735" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/Driver/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -65,7 +47,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderLinkReceiver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
+            <state relative-caret-position="300">
               <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -161,8 +143,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -242,6 +222,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -359,17 +341,26 @@
       <workItem from="1547732075354" duration="653000" />
       <workItem from="1547911908365" duration="2667000" />
       <workItem from="1548428088895" duration="5208000" />
+      <workItem from="1548443624477" duration="303000" />
     </task>
+    <task id="LOCAL-00001" summary="fixed 2nd website, minor changes">
+      <created>1548443686392</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1548443686392</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56838000" />
+    <option name="totallyTimeSpent" value="57141000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24717286" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25121164" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -438,6 +429,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed 2nd website, minor changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed 2nd website, minor changes" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="jar://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.9.1/jsoup-1.9.1.jar!/org/jsoup/nodes/Element.class" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/function/Predicate.java" />
@@ -478,13 +473,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Exceptions/acd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Exceptions/acd.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Websites/Interfaces/Links.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -533,13 +522,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/Interfaces/Files.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderPathCreator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -551,9 +533,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/Interfaces/Files.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderLinkReceiver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
+        <state relative-caret-position="300">
           <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -572,7 +561,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Driver/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>

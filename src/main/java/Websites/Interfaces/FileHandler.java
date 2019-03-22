@@ -2,19 +2,21 @@ package Websites.Interfaces;
 
 import java.io.IOException;
 
-public interface Files {
+public interface FileHandler {
 
     String EMPTY="";
 
     String OLD="old";
 
-    String PATH=System.getProperty("user.dir");
+    String PATH=System.getProperty("user.dir") + "/res/";
 
     String TXT=".txt";
 
     String extractName(String url);
 
     String createAndWrite(String url)throws IOException;
+
+    String createAndWrite(String url, String username, String pass) throws IOException;
 
     void toFiles() throws IOException;
 

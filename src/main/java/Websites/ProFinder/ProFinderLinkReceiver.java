@@ -28,7 +28,7 @@ class ProFinderLinkReceiver implements Links {
 
     private static final String REFNR="refnr";
 
-    public void getLinks()throws IOException {
+    public void getLinksFromWebsite()throws IOException {
 
         Document doc = Jsoup.connect(URL).get();
 
@@ -38,7 +38,7 @@ class ProFinderLinkReceiver implements Links {
 
     }
 
-    public void deleteWrong(){
+    public void deleteWrongResults(){
         set.removeIf(s -> s.contains(LINKEDIN) || s.contains(TWITTER) || !s.contains(REFNR));
     }
 
@@ -46,27 +46,22 @@ class ProFinderLinkReceiver implements Links {
         return String.format(STRING_FORMAT,args);
     }
 
-    public HashSet<String> getSet() throws IOException{
+    public HashSet<String> getSetFromWebsite() throws IOException{
 
-        getLinks();
+        getLinksFromWebsite();
 
-        deleteWrong();
+        deleteWrongResults();
 
         return set;
     }
 
     @Override
-    public HashSet<String> getSet(String email, String password) {
+    public HashSet<String> getSetFromWebsite(String email, String password) {
         throw new UnsupportedOperationException();
     }
 
     @Override
-    public Document createConnection(String name, String password, String url) {
-        throw new UnsupportedOperationException();
-    }
-
-    @Override
-    public void getLinks(String name, String password) {
+    public void getLinksFromWebsite(String name, String password) {
         throw new UnsupportedOperationException();
     }
 }

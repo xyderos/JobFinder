@@ -1,6 +1,6 @@
 package Websites.eWork;
 
-import Websites.Interfaces.Files;
+import Websites.Interfaces.FileHandler;
 import Websites.Interfaces.Helpers;
 import Websites.ProFinder.ProFinderPathCreator;
 
@@ -8,15 +8,13 @@ import java.io.*;
 import java.util.HashSet;
 import java.util.regex.Pattern;
 
-public class eWorkPathCreator extends Helpers implements Files {
+public class eWorkPathCreator extends Helpers implements FileHandler {
 
     private static HashSet<File> files=new HashSet<>();
 
     private eWorkLinkReceiver eWorkLinkReceiver =new eWorkLinkReceiver();
 
-    private static final String DELIM ="/ProjectView_framed.cfm?";
-
-    private static final String ENDL ="\0";
+    private static final String DELIM ="ProjectView_framed.cfm?";
 
     private static final String EQUALS="=";
 
@@ -25,19 +23,19 @@ public class eWorkPathCreator extends Helpers implements Files {
     @Override
     public String extractName(String url) {
 
-        String t=url.substring(url.indexOf(DELIM),url.indexOf(ENDL));
+        String t=url.substring(url.indexOf(DELIM));
 
         return setDetails(t,EQUALS,UNDERSCORE);
     }
 
     @Override
-    public String createAndWrite(String url) throws IOException {
+    public String createAndWrite(String url, String n, String pass) throws IOException {
 
         String name = extractName(url);
 
-        String fileName = Websites.Interfaces.Files.PATH + name + TXT;
+        String fileName = FileHandler.PATH + name + TXT;
 
-        return create(fileName,url);
+        return create(fileName,url, n,pass);
     }
 
     @Override
@@ -45,9 +43,9 @@ public class eWorkPathCreator extends Helpers implements Files {
 
         File file;
 
-        for (String pf : eWorkLinkReceiver.getSet(username,password) ){
+        for (String pf : eWorkLinkReceiver.getSetFromWebsite(username,password) ){
 
-            file=new File(createAndWrite(pf));
+            file=new File(createAndWrite(pf,username,password));
 
             formatFile(pf);
 
@@ -69,6 +67,11 @@ public class eWorkPathCreator extends Helpers implements Files {
 
     @Override
     public void toFiles() {
+        throw new UnsupportedOperationException();
+    }
+
+    @Override
+    public String createAndWrite(String url){
         throw new UnsupportedOperationException();
     }
 }

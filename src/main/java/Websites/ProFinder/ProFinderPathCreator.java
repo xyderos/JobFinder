@@ -1,13 +1,13 @@
 package Websites.ProFinder;
 
-import Websites.Interfaces.Files;
+import Websites.Interfaces.FileHandler;
 import Websites.Interfaces.Helpers;
 
 import java.io.*;
 import java.util.HashSet;
 import java.util.regex.Pattern;
 
-public class ProFinderPathCreator extends Helpers implements Files {
+public class ProFinderPathCreator extends Helpers implements FileHandler {
 
     @SuppressWarnings("MismatchedQueryAndUpdateOfCollection")
     private static HashSet<File> files=new HashSet<>();
@@ -35,9 +35,14 @@ public class ProFinderPathCreator extends Helpers implements Files {
 
         String name=extractName(url);
 
-        String fileName= ProFinderPathCreator.PATH+name+TXT;
+        String fileName= PATH+name+TXT;
 
         return create(fileName,url);
+    }
+
+    @Override
+    public String createAndWrite(String url, String username, String pass){
+        throw new UnsupportedOperationException();
     }
 
     @Override
@@ -45,7 +50,7 @@ public class ProFinderPathCreator extends Helpers implements Files {
 
         File file;
 
-        for (String pf : pf.getSet() ){
+        for(String pf: pf.getSetFromWebsite()){
 
             file=new File(createAndWrite(pf));
 
@@ -58,11 +63,14 @@ public class ProFinderPathCreator extends Helpers implements Files {
     @Override
     public void formatFile(String path) throws IOException{
 
-        BufferedReader br=new BufferedReader(new FileReader(ProFinderPathCreator.PATH+extractName(path)+TXT));
+        String fileName= PATH+extractName(path)+TXT;
 
-        String fileName=ProFinderPathCreator.PATH+extractName(path)+TXT.replaceAll(Pattern.quote(OLD),EMPTY);
+        BufferedReader br=new BufferedReader(new FileReader(fileName));
+
+        fileName=fileName.replaceAll(Pattern.quote(OLD),EMPTY);
 
         writeFile(fileName,br);
+
     }
 
     @Override
@@ -70,6 +78,8 @@ public class ProFinderPathCreator extends Helpers implements Files {
         throw new UnsupportedOperationException();
     }
 }
+
+
 
 
 

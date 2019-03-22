@@ -1,0 +1,15 @@
+Required skills ·        Java 8 ·        REST and JSON
+·        Linux ·        Databases (SQL and NoSQL) ·       
+Websockets ·        Git ·        RabbitMQ or similar
+messaging Desired skills ·        Dropwizard ·       
+Experience working with microservices ·        Test Driven
+Development ·        Python ·        Selenium ·        PACT
+·        Security mindset since we are working in security
+industry. Vilka metoder/verktyg ska användas? Intellij,
+Jenkins, TeamCity, AWS, JIRA Confluence ska personen i
+frågan kunna använda. Some tools/methods we use in the
+project: Docker Amazon Web Services (AWS) and E2C TeamCity
+and Jenkins Agile, DevOps  Microservices  Profinder –
+erfarna konsulter inom IT, Teknik och Management  |  Orgnr.
+556684-0616  | Tel: 08 750 49 00Stockholm  |  Göteborg  | 
+LinköpingVisa skrivbordsversion

@@ -1,0 +1,18 @@
+Front-end Javascript library developer for video streaming
+We have a Typescript/Javascript-based SDK for implementing
+SYE applications in web browsers. We are looking for a
+developer who can take responsibility for the SDK and
+continue the development and quality assurance activities.
+The responisbility also includes developing reference
+implementations, set up automated tests for different
+Browsers, assisting customer in their integrations, etc.
+Desired competence for JS SDK development: - WebDesign for
+video streaming applications (HTML, CSS, JavaScript, Browser
+JavaScript API:s (Media Source Extensions in particular)) -
+TypeScript - Cross platform Browser compatibility
+testing/testing frameworks. - Familiar with
+RTCPeerConnection, RTCPeerConnection and/or WebRTC is a
+bonus. Start asapProfinder – erfarna konsulter inom IT,
+Teknik och Management  |  Orgnr. 556684-0616  | Tel: 08 750
+49 00Stockholm  |  Göteborg  |  LinköpingVisa
+skrivbordsversion

@@ -77,6 +77,8 @@ public abstract class Helpers {
 
         File f=new File(fileName);
 
+        if (f.exists()) return null;
+
         final boolean newFile= f.createNewFile();
 
         assert newFile;
@@ -154,5 +156,4 @@ public abstract class Helpers {
 
         btn.val(bAnswer);
     }
-
 }

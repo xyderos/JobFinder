@@ -1,0 +1,15 @@
+Your challenge will be to Systemize solutions for our
+products regarding Operability and Maintanability, that are
+fault tolerant and self-servicing. This includes for
+example: ·  How and what information shall we log ·  Can we
+do self-recovery from failures ·  What types of self-tests
+can we perform   Systemize solutions for simplified and
+robust operation of our products. The products must handle
+and adapt to environmental conditions such as temperature.
+Simplification and robustness can include ·  configuration
+of sub system resources ·  visibility of vital parameters
+·  fault tolerance such as recoveries or reconfigurations
+·  pinpointing of problems for operation personnel and
+repairProfinder – erfarna konsulter inom IT, Teknik och
+Management  |  Orgnr. 556684-0616  | Tel: 08 750 49
+00Stockholm  |  Göteborg  |  LinköpingVisa skrivbordsversion

@@ -1,0 +1,11 @@
+Till vår kund söker vi en Senior Utvecklare/DevOps, enligt
+nedan: Vi söker en senior utvecklare/devops som kan bygga
+upp miljöer med monitorering, säkerhet, infrastruktur för
+att sedan kunna driftsätta en applikation på. Du kan AWS ECS
+infrastruktur (uppbyggnad), terraform, python samt är van
+vid att arbeta med en DevOps ways of working. Start:
+Januari/februari Uppdragslängd: 6 månader troligen längre
+Placeringsort: 100% på plats hos kunden, StockholmProfinder
+– erfarna konsulter inom IT, Teknik och Management  | 
+Orgnr. 556684-0616  | Tel: 08 750 49 00Stockholm  | 
+Göteborg  |  LinköpingVisa skrivbordsversion

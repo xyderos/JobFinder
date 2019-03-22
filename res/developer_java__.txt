@@ -1,0 +1,33 @@
+Developer Java Description:   We are looking for engaged and
+enthusiastic Software Engineers to join one of our teams. We
+are working together in autonomous teams that take full
+responsibility for their own part of our ecosystem. The team
+focuses on creating end to end custom integrations that are
+robust, compliant and low maintenance focusing on handling
+financial data. You will join a team where everyone share a
+common interest in distributed backend systems, their
+scalability and continued development.   What you’ll do
+Design, develop and deploy backend services with focus on
+high availability, scalability and low maintenance Build and
+operate infrastructure, toolset and deployment pipelines
+Collaborate closely with other engineers and become a valued
+member of an autonomous, cross- functional team. Take
+operational responsibility for the services that are owned
+by your team, potentially including taking part in an
+on-call rotation. Work in an environment that supports your
+individual growth   Who you are You are comfortable writing
+Java You are interested in keeping up with current best
+practices in your areas of expertise You are experienced
+working with modern infrastructure and tools. You are
+comfortable running your software in Linux environments. You
+know and care about sound engineering practices like
+continuous delivery, defensive programming and automated
+testing. You’re familiar with designing and building
+distributed and scalable systems and enjoy seeing millions
+of users running your code. You have good understanding of
+data structures and algorithms, and understand how to apply
+them to design pragmatic solutions.   Start Date:  
+2019-01-14 End Date:   2019-08-30Profinder – erfarna
+konsulter inom IT, Teknik och Management  |  Orgnr.
+556684-0616  | Tel: 08 750 49 00Stockholm  |  Göteborg  | 
+LinköpingVisa skrivbordsversion

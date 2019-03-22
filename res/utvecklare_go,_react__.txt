@@ -1,0 +1,39 @@
+Vi söker en erfaren konsult som förstärkning till vårt
+Business Systems team. Teamet vidareutvecklar och
+underhåller alla de system som krävs för att våra kunder ska
+kunna betala för våra tjänster. Det innebär fakturering,
+kortbetalningar, hantering av streaming-prenumerationer,
+koppling till ekonomi och bokföringssystem. Hittills har
+bolaget haft en tyngdpunkt på den nordiska marknaden men vi
+är nu inne i en intensiv global expansion och förväntar oss
+stor tillväxt av antalet kunder. Det ställer allt högre krav
+på prestanda, skalbarhet och korrekthet i våra system.  Som
+konsult kommer du att ingå i vårt Business Systems team och
+främst vidareutveckla vår backend, skriven i Go som körs
+på AppEngine, men du kommer även göra mindre förändringar av
+vår React frontend vid behov. Du ska behärska
+backendprogrammering av tjänster som exponerar och
+konsumerar REST baserade API:er samt vara bekant med
+utveckling av moderna single page appar skrivna i
+JavaScript. Vi förväntar oss inte att du idag är expert
+på Go, AppEngine eller React, men att du snabbt blir
+produktiv med dessa tekniker. Du ska vara ansvarstagande,
+självgående och kvalitetsmedveten och tycka det är
+självklart att skriva tester för ny kod samt känna dig trygg
+med att driftsätta egna förändringar (efter kodgranskning).
+Du är van att jobba med git och är inte rädd för att göra en
+interaktiv rebase för att hålla versionshistoriken tydlig. I
+teamet jobbar de flesta med OS X men det går även att
+använda Linux. Förutom de tekniker och verktyg som nämnts
+ovan är det en fördel att vara bekant med:  ● Google Cloud
+Platform som är molnplatformen där allt driftas ○ Datastore
+för datalagring (del av AppEngine) ○ BigQuery för dataanalys
+och rapporter ● ElasticSearch för sök ● Kibana för logsök ●
+Favro för ärendehantering ● Prometheus och Grafana för
+övervakning ● Jenkins för kontinuerliga byggen och
+driftsättningar ● Sentry för felrapportering ● Docker &
+Kubernetes för paketering och orkestrering av de tjänster
+som inte körs på AppEngine  Period Omgående, till slutet av
+2018Profinder – erfarna konsulter inom IT, Teknik och
+Management  |  Orgnr. 556684-0616  | Tel: 08 750 49
+00Stockholm  |  Göteborg  |  LinköpingVisa skrivbordsversion

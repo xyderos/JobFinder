@@ -1,0 +1,28 @@
+Description:   We are looking for a web developer to join
+one of our teams at Spotify. We use Web 2.0-technologies,
+together with Python/Java backends. We need engineers
+experienced in all areas of web development, who can move
+freely between client and server side. You will be working
+from our offices in central Stockholm.   Who you are * You
+have a passion for software development in general * You
+love to tackle interesting challenges. * You are adaptable
+and resourceful and you are able to develop effective
+solutions to problems. * You understand when it’s better to
+go for the quick win and when it’s better to drive through a
+comprehensive technical solution. * You are committed to
+providing our users with the very best music experience in
+the world, and the best customer support possible. * You
+understand that development means teamwork and enjoy working
+with cross functional teams. * You are curious and
+passionate about constant learning, also going outside of
+your usual domain. * You have a quality mindset in your
+approach to your work.   Technical knowledge needed * Web
+2.0 (HTML, Javascript, CSS) * CI frameworks e.g. Jenkins *
+Java or Python   Technical knowledge wished for * Experience
+with TDD and BDD * Component-based frameworks e.g. React,
+Salesforce Lightning Components * Experience working with
+customer support systems     Job Posting Start Date:  
+2018-09-01 Job Posting End Date:   2018-12-31Profinder –
+erfarna konsulter inom IT, Teknik och Management  |  Orgnr.
+556684-0616  | Tel: 08 750 49 00Stockholm  |  Göteborg  | 
+LinköpingVisa skrivbordsversion

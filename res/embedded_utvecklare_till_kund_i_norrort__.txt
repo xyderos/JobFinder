@@ -1,0 +1,13 @@
+Hej, Vår kund i Täby söker ytterligare förstärkning till
+sitt PG team (Pattern Generation, eller maskritarmaskinen).
+Start: ASAP Längd på uppdraget: Minst tre månader (option på
+förlängning året ut) Huvuduppgifterna kommer att vara JAVA-
+och test-utveckling. Kandidaten bör ha arbetat minst två år
+med Java, Linux gärna med styrprogramvara till maskiner.
+Hårdvarunära utveckling både i Java och i C, med
+lager-arkitektur-tänk. Parallellt med sw-utvecklingen kommer
+även utveckling av testsystem att ske.  Utvecklingsverktygen
+kommer vara: Eclipse, Jira, Perforce, Linux,
+Jenkins.Profinder – erfarna konsulter inom IT, Teknik och
+Management  |  Orgnr. 556684-0616  | Tel: 08 750 49
+00Stockholm  |  Göteborg  |  LinköpingVisa skrivbordsversion

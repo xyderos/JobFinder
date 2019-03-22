@@ -1,0 +1,16 @@
+För kunds räkning söker vi nu en Senior BI-utvecklare,
+enligt nedan:   Kompetensbehov:                    
+Kunskap:          Djup kunskap om datawarehouse och BI
+lösningar i Azure.   Erfarenhet:      Erfarenhet från
+telekom, försäkringsbranschen eller annan abonnemangsaffär
+samt tidigare arbete med Azure BI.  
+Arbetsuppgifter:                        Utveckling i
+DataFactory och SQL DW. Vi står mitt i ett migreringsprojekt
+från onprem lösning till Azure och behöver hjälp att flytta
+befintligt warehouse.   Förväntad leverans:                
+Agil leverans tillsammans med resten av teamet. Migrering av
+befintlig miljö till Azure.   Start: Omgående Placeringsort:
+100% på plats hos kund, StockholmProfinder – erfarna
+konsulter inom IT, Teknik och Management  |  Orgnr.
+556684-0616  | Tel: 08 750 49 00Stockholm  |  Göteborg  | 
+LinköpingVisa skrivbordsversion

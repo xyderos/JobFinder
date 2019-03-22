@@ -1,0 +1,54 @@
+  What you’ll do: You will be responsible design and
+development of new features & prototypes for our mobile UI’s
+for both Android and iOS platforms, working together with
+the UX/UI-team.  As a software developer within the
+UX/UI-team you’ll be actively involved throughout the entire
+interface development process. From user research, design
+and idea-generation to conceptualization, testing and
+implementation.  You’ll be working with a variety of
+stakeholders, both within our departments and outside. For
+instance User Researchers, Interaction-, Visual- and
+Industrial Designers to Hardware Engineers, Product Owners
+and Project Managers.   What skills to bring: The home
+appliance market domain is increasingly fast paced and is
+today being influenced by many other areas of the consumer
+electronic market. The UX/UI-team works and creates
+deliverables across a broad spectrum – both in terms of
+technology and products.   Therefore, with your background,
+we believe that you should… ·     Possess a Computer Science
+or Software engineering degree ·     Should have min 3 yrs
+of experience developing for iOS and Android, with good
+knowledge about Swift for iOS and Java/Kotlin for Android.
+·     UI/UX development experience, knowing
+the Apple/Android guidelines, using Storyboards, auto
+layout, constraints (via UI and code) ·     Have a solid
+understanding of Object-oriented programming, Design
+Patterns, and Test Driven Development; ·     Great English
+language skills, other languages always a bonus.   And it
+would be good if you have experience with… ·     Version
+control, specifically: Git Gitflow   ·     Build management:
+iOS: Cocoapods/Carthage/Swift Package Manager Android:
+Gradle in case of Android   ·     Continuous integration
+tools: Jenkins Travis Circle CI   ·     Apple/Google
+Developer account setup (apps, certificates, profiles), how
+to configure an application, push notifications, how to
+upload and maintain a production app (have at least 2 or 3
+released applications)  ·     Realm/Core Data/SQLite: Solid
+knowledge about local storage/persistence and how to
+optimize and safely work with it; ·     Hybrid App
+Frameworks PhoneGap Xamarin Sencha React   That’s why we
+believe that you as a person…  ·     are comfortable with
+being responsible for a tech area. ·     are self
+going, with a pro-active work attitude and ability to
+organize personal work to meet deadlines. 
+·     are creative, energetic and inspire others.
+·     dare to innovate and propose new solutions and
+approaches, also challenging existing ones.  ·     are a
+strong communicator and have skills to help you carry a
+clear and concise dialog with internal clients and
+stakeholders ·     find yourself comfortable
+in a multidisciplinary and international setting.   
+Startdate: 2019-01-19 End date: 2020-01-20 möjlighet till
+förlängningProfinder – erfarna konsulter inom IT, Teknik och
+Management  |  Orgnr. 556684-0616  | Tel: 08 750 49
+00Stockholm  |  Göteborg  |  LinköpingVisa skrivbordsversion

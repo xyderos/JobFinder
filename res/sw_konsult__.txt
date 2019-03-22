@@ -1,0 +1,12 @@
+Vår kund i södra Stockholm  behöver en SW-konsult som kan
+uppdatera en SATA-drivrutin och göra om I2C-drivrutinen från
+pollad till interruptdriven. - Update of SATA driver in
+FreeBSD operating system for CoHP/CPU-B - Update I2C-driver
+in FreeBSD operating system for CoHP/CPU-B to   be interrupt
+driven. Processor type is ARM. - Update of the debian
+package for CPU-A with correction of the     s-bit of the
+sudo command rights properties. - Design documentation and
+test specification document. Start asap tom 30/3Profinder –
+erfarna konsulter inom IT, Teknik och Management  |  Orgnr.
+556684-0616  | Tel: 08 750 49 00Stockholm  |  Göteborg  | 
+LinköpingVisa skrivbordsversion

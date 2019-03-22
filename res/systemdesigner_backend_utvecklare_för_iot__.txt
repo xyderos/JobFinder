@@ -1,0 +1,13 @@
+Kompetenskrav ·         5-10 års erfarenhet inom
+systemutveckling ·         Systemdesign o   Kunna ta
+långsiktigt ägarskap för design och implementation för
+system      av uppkopplade apparater/backend/app/content 
+o   Styra designen mot återanvändbaras egna komponenter,
+gemensamma Electrolux komponenter och open source/inköpta
+komponenter när det är lämpligt ·         Backend utveckling
+o   Azure o   Containers o   C#/.Net o   MQTT och Websockets
+o   DevOps Start: 2018-02-08 Uppdragslängd: 2018-08-07
+Placeringsort: 100% på plats hos kunden, StockholmProfinder
+– erfarna konsulter inom IT, Teknik och Management  | 
+Orgnr. 556684-0616  | Tel: 08 750 49 00Stockholm  | 
+Göteborg  |  LinköpingVisa skrivbordsversion

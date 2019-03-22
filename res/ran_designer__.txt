@@ -1,0 +1,26 @@
+Role Summary and Key Responsibilities: Your role will
+include RAN design activities such as: ·        Active part
+in Customer solution design; ·        Requirement analysis;
+·        System design; ·        Architecture design;
+·        Functional allocation CU/DU (Centralized
+Unit/Distributed Unit) and Radio Unit; ·        O&M
+functional allocation; ·        HW and SW basic design;
+·        RAN simulations; ·        System documentation;
+·        Support RAN integrations, verification and
+troubleshooting.   Job Requirements: ·        In-depth
+knowledge on mobile networks, especially on 3GPP LTE and NR
+standards in RAN and the interface between radio network and
+core network. Additional knowledge on the core network
+standards is a plus. ·        Extensive, proven experience
+in mobile telecommunication industry. ·        Familiarity
+with macro and small cell deployments. ·        Familiarity
+with NFV standards and ecosystem. ·        Excellent
+inter-personal and leadership skills. ·        Outstanding
+verbal and written communication skills. ·        Excellent
+presentation skills for a variety of audiences including
+executives, partners, and customers. ·        Ability to
+quickly grasp and adapt to new technologies and concepts.
+·        BS Degree in EE or CS. MS Degree highly desirable.
+ Profinder – erfarna konsulter inom IT, Teknik och
+Management  |  Orgnr. 556684-0616  | Tel: 08 750 49
+00Stockholm  |  Göteborg  |  LinköpingVisa skrivbordsversion

@@ -1,0 +1,20 @@
+Till vår kund i norrort söker vi en Engineer - Cloud
+integration, enligt nedan: Beskrivning Vi letar efter en
+person som framför allt har jobbat med Cloud och
+virtualiseringar och förhoppningsvis även har erfarenhet av
+Telekom branschen. Kunden håller på och bygger upp ett/flera
+Cloud som ska hantera virtualiserade noder för basstationer.
+Vi har ett behov av någon som både kan jobba hands on med
+dessa Cloud men även har drag av Solution Architect som kan
+definiera processer och långsiktiga lösningar. En förståelse
+för Telekom och R&D är ett plus.   SKALLKRAV (MÅSTE VARA
+UPPFYLLT): Linux SysAdmin   Cloud experience Open Stack  
+BÖRKRAV (BÖR VARA UPPFYLLT): Python Some experience from
+testing Telecom (any standard)   MERITERANDE (BRA OM MAN
+UPPFYLLER): Telecom Radio experience   PERSONLIGHET:
+Positive. “Can do” mentality.   Start: Så snart som möjligt
+Uppdragslängd: 12 mån Placeringsort: 100% på plats hos
+kunden, norra StockholmProfinder – erfarna konsulter inom
+IT, Teknik och Management  |  Orgnr. 556684-0616  | Tel: 08
+750 49 00Stockholm  |  Göteborg  |  LinköpingVisa
+skrivbordsversion

@@ -2,15 +2,19 @@
   <dictionary name="konstantinos">
     <words>
       <w>asic</w>
+      <w>dbname</w>
+      <w>dbpass</w>
       <w>delim</w>
       <w>endl</w>
       <w>fnam</w>
       <w>fpga</w>
       <w>logga</w>
       <w>mozilla</w>
+      <w>nofcollumns</w>
       <w>nowin</w>
       <w>projectid</w>
       <w>refnr</w>
+      <w>workname</w>
       <w>wpass</w>
     </words>
   </dictionary>

@@ -3,8 +3,6 @@ package Integration;
 import java.io.File;
 import java.sql.*;
 import java.util.Objects;
-import java.util.Timer;
-import java.util.TimerTask;
 
 public class DBConnection {
 
@@ -12,7 +10,7 @@ public class DBConnection {
 
     private static final String INSERT_SQL = "INSERT INTO jobs( name, dt, ref) values( ?, ?, ?) ";
 
-    private static final String SELECT_SQL ="SELECT * FROM jobs WHERE DATE_SUB(?,interval 1 day)";
+    private static final String SELECT_SQL ="SELECT * FROM jobs WHERE TIMESTAMPDIFF(?,interval 1 day)";
 
     private static Connection CONNECTION = null;
 
@@ -20,38 +18,23 @@ public class DBConnection {
 
     private static java.sql.Timestamp t;
 
-    private static Timer timer = new Timer();
+    private ResultSet res;
 
-    private static final int PERIOD=1000*60*60*24;
+    public ResultSet getRes() {
+        return res;
+    }
 
-    private static final long DELAY= 0L;
-
-    private DBConnection(String name, String password,String eWName, String eWpass) throws Exception {
+    public DBConnection(String name, String password, String eWName, String eWpass) throws Exception {
 
         CONNECTION=DriverManager.getConnection(URL, name, password);
 
+        FileHandler.getAds(eWName,eWpass);
 
-        TimerTask t = new TimerTask()  {
-            @Override
-            public void run (){
+        FileHandler.cleanDub();
 
-                try{
-                    FileHandler.getAds(eWName,eWpass);
+        insert();
 
-                    FileHandler.cleanDub();
-
-                    insert();
-
-                    System.out.println(getRecentAdvertisements());
-
-                }catch (final Exception e){
-                    e.printStackTrace();
-                }
-
-            }
-        };
-
-        timer.schedule (t,DELAY , PERIOD);
+        this.res=getRecentAdvertisements();
     }
 
     private void insert() throws SQLException{
@@ -81,11 +64,5 @@ public class DBConnection {
         ps.setTimestamp(1,t);
 
         return ps.executeQuery(SELECT_SQL);
-    }
-
-    public static void main(String[] args) throws Exception {
-        DBConnection c=new DBConnection("root", "samplepass", "sampleuser", "samplepass");
-
-        System.out.println("logged in and it will probably never reach this line lulululu "+ c.today );
     }
 }

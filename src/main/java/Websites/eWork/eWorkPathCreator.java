@@ -74,5 +74,11 @@ public class eWorkPathCreator extends Helpers implements FileHandler {
     public String createAndWrite(String url){
         throw new UnsupportedOperationException();
     }
+
+    public static void main(String[] args) throws Exception{
+
+        eWorkPathCreator e=new eWorkPathCreator();
+        e.toFiles("forslundaren@hotmail.com","1Testing2_");
+    }
 }
 

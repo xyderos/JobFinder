@@ -3,7 +3,7 @@ package Websites.ProFinder;
 import java.io.IOException;
 import java.util.HashSet;
 
-import Websites.Interfaces.Links;
+import Websites.Utility.Links;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -35,15 +35,14 @@ class ProFinderLinkReceiver implements Links {
         Elements elements = doc.select(QUERY);
 
         for (Element e : elements) set.add(toString(e.attr(KEY)));
-
-    }
-
-    public void deleteWrongResults(){
-        set.removeIf(s -> s.contains(LINKEDIN) || s.contains(TWITTER) || !s.contains(REFNR));
     }
 
     public String toString(Object...args) {
         return String.format(STRING_FORMAT,args);
+    }
+
+    public void deleteWrongResults(){
+        set.removeIf(s -> s.contains(LINKEDIN) || s.contains(TWITTER) || !s.contains(REFNR));
     }
 
     public HashSet<String> getSetFromWebsite() throws IOException{

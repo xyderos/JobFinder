@@ -1,7 +1,7 @@
 package Websites.eWork;
 
-import Websites.Interfaces.FileHandler;
-import Websites.Interfaces.Helpers;
+import Websites.Utility.FileHandler;
+import Websites.Utility.Helpers;
 import Websites.ProFinder.ProFinderPathCreator;
 
 import java.io.*;
@@ -35,7 +35,7 @@ public class eWorkPathCreator extends Helpers implements FileHandler {
 
         String fileName = FileHandler.PATH + name + TXT;
 
-        return create(fileName,url, n,pass);
+        return create(fileName,url,n,pass);
     }
 
     @Override
@@ -73,12 +73,6 @@ public class eWorkPathCreator extends Helpers implements FileHandler {
     @Override
     public String createAndWrite(String url){
         throw new UnsupportedOperationException();
-    }
-
-    public static void main(String[] args) throws Exception{
-
-        eWorkPathCreator e=new eWorkPathCreator();
-        e.toFiles("forslundaren@hotmail.com","1Testing2_");
     }
 }
 

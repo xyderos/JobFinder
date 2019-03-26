@@ -44,7 +44,6 @@ public class MailHandler {
                 }
             }
         };
-
         timer.schedule(t, DELAY, PERIOD);
     }
 
@@ -52,6 +51,5 @@ public class MailHandler {
         for (String e : consultants)
             for (Metadata m: Metadata.setToList(res))
                 new MailCreator(this.from, this.pass, e, m.getFileName(), m.getFilePath());
-
     }
 }

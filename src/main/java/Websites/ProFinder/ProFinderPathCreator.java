@@ -1,7 +1,7 @@
 package Websites.ProFinder;
 
-import Websites.Interfaces.FileHandler;
-import Websites.Interfaces.Helpers;
+import Websites.Utility.FileHandler;
+import Websites.Utility.Helpers;
 
 import java.io.*;
 import java.util.HashSet;
@@ -41,11 +41,6 @@ public class ProFinderPathCreator extends Helpers implements FileHandler {
     }
 
     @Override
-    public String createAndWrite(String url, String username, String pass){
-        throw new UnsupportedOperationException();
-    }
-
-    @Override
     public void toFiles() throws IOException{
 
         File file;
@@ -75,6 +70,11 @@ public class ProFinderPathCreator extends Helpers implements FileHandler {
 
     @Override
     public void toFiles(String user, String password) {
+        throw new UnsupportedOperationException();
+    }
+
+    @Override
+    public String createAndWrite(String url, String username, String pass){
         throw new UnsupportedOperationException();
     }
 }

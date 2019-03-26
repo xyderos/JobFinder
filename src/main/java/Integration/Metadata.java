@@ -13,22 +13,6 @@ public class Metadata {
 
     private String filePath;
 
-    public String getFileName() {
-        return fileName;
-    }
-
-    private void setFileName(String fileName) {
-        this.fileName = fileName;
-    }
-
-    public String getFilePath() {
-        return filePath;
-    }
-
-    private void setFilePath(String filePath) {
-        this.filePath = filePath;
-    }
-
     public static ArrayList<Metadata> setToList(ResultSet res) throws Exception {
 
         ArrayList<Metadata> list = new ArrayList<>();
@@ -44,4 +28,19 @@ public class Metadata {
         return list;
     }
 
+    private void setFileName(String fileName) {
+        this.fileName = fileName;
+    }
+
+    public String getFilePath() {
+        return filePath;
+    }
+
+    public String getFileName() {
+        return fileName;
+    }
+
+    private void setFilePath(String filePath) {
+        this.filePath = filePath;
+    }
 }

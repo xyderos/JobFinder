@@ -30,6 +30,5 @@ class FileHandler {
     static void cleanDub(){
 
         for (File file : files())  if(file.getName().contains("old")) System.out.println(file.delete());
-
     }
 }

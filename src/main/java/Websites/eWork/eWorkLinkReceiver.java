@@ -1,12 +1,10 @@
 package Websites.eWork;
 
-import Websites.Interfaces.Helpers;
-import Websites.Interfaces.Links;
-
+import Websites.Utility.Helpers;
+import Websites.Utility.Links;
 
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
-
 import org.jsoup.select.Elements;
 
 import java.io.IOException;
@@ -28,18 +26,9 @@ public class eWorkLinkReceiver extends Helpers implements Links {
 
     private static final String PROJECT_ID="PROJECT_ID";
 
-
     @Override
-    public void getLinksFromWebsite(String name, String password)throws IOException {
-
-        retrieveLinks(name, password);
-    }
-
-    private void retrieveLinks(String name, String password) throws IOException {
-
-        jobs(name, password, ASIC);
-
-        jobs(name, password, FPGA);
+    public String toString(Object...args) {
+        return String.format(STRING_FORMAT,args);
     }
 
     private void jobs(String name, String password, String subSite) throws IOException {
@@ -51,11 +40,24 @@ public class eWorkLinkReceiver extends Helpers implements Links {
         for (Element e1 : elements) set.add(toString(e1.attr(KEY)));
     }
 
-    @Override
-    public String toString(Object...args) {
-        return String.format(STRING_FORMAT,args);
+    private void retrieveLinks(String name, String password) throws IOException {
+
+        jobs(name, password, ASIC);
+
+        jobs(name, password, FPGA);
     }
 
+    @Override
+    public void getLinksFromWebsite(String name, String password)throws IOException {
+
+        retrieveLinks(name, password);
+    }
+
+    @Override
+    public void deleteWrongResults(){
+
+        set.removeIf(s -> !s.contains(PROJECT_ID));
+    }
 
     @Override
     public HashSet<String> getSetFromWebsite(String email, String password) throws IOException{
@@ -66,14 +68,6 @@ public class eWorkLinkReceiver extends Helpers implements Links {
 
         return set;
     }
-
-    @Override
-    public void deleteWrongResults(){
-
-        set.removeIf(s -> !s.contains(PROJECT_ID));
-
-    }
-
 
     @Override
     public void getLinksFromWebsite(){

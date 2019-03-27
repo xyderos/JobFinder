@@ -6,21 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7c415f7-86f6-4c14-9229-84e5698db735" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Driver/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Driver/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Integration/FileHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Integration/FileHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Integration/Metadata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Integration/Metadata.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Mail/MailCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Mail/MailCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Mail/MailHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Mail/MailHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Websites/Interfaces/FileHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Websites/Utility/FileHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Websites/Interfaces/Helpers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Websites/Utility/Helpers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Websites/Interfaces/Links.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Websites/Utility/Links.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderLinkReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderLinkReceiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderPathCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderPathCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkLinkReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkLinkReceiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkPathCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkPathCreator.java" afterDir="false" />
-    </list>
+    <list default="true" id="e7c415f7-86f6-4c14-9229-84e5698db735" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,7 +30,17 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -135,18 +131,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="JOBFINDER" type="b2602c69:ProjectViewProjectNode" />
               <item name="JOBFINDER" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JOBFINDER" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JOBFINDER" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JOBFINDER" type="b2602c69:ProjectViewProjectNode" />
@@ -178,7 +169,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -343,6 +334,7 @@
       <workItem from="1553532379516" duration="5105000" />
       <workItem from="1553557271142" duration="1895000" />
       <workItem from="1553559295175" duration="229000" />
+      <workItem from="1553560055481" duration="302000" />
     </task>
     <task id="LOCAL-00001" summary="fixed 2nd website, minor changes">
       <created>1548443686392</created>
@@ -355,12 +347,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86312000" />
+    <option name="totallyTimeSpent" value="86614000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2374798" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2374798" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -505,13 +498,6 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/7888a1d2-721d-4cb2-8c97-575c05515595/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Integration/Metadata.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
@@ -653,6 +639,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
         </state>
       </provider>
     </entry>

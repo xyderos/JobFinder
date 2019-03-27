@@ -86,10 +86,12 @@ public abstract class Helpers {
 
             String s = p.text();
 
-            out.write(s);
+            if (s==null || out==null) continue;
 
+            out.write(s);
         }
-        out.close();
+        if (out != null)  out.close();
+
 
         return fileName;
     }
@@ -111,7 +113,7 @@ public abstract class Helpers {
 
         if (t.contains(arg2)) t=t.replaceAll(Pattern.quote(arg2),UNDERSCORE);
 
-        t = new StringBuilder(t).insert(t.length(), OLD).toString();
+        t = new StringBuilder(t).insert(t.length(),OLD).toString();
 
         return t;
     }

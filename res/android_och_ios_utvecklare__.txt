@@ -1,23 +1,0 @@
-  Vi har många spännande utmaningar och söker därför
-ytterligare seniora Android och iOS -utvecklare som också
-kan tänka sig ta sig an andra utvecklingsuppgifter inom
-angränsande kompetensområde. Du kommer att vara med i
-uppstarten av ett ny fas i projektet där det finns
-möjligheter att påverka applikations-design och teknikval.
-Hos oss får du jobba med moderna tekniker och vara med om
-att utveckla nya lösningar för att maximera upplevelsen för
-användarna. Du kommer att tillhöra ett team bestående av
-ytterligare Android och iOS utvecklare.   Avgörande
-kunskaper Android: Java Kotlin Minst 3 års dokumenterad
-arbetserfarenhet av utveckling för Android    Bra att ha:
-Erfarenhet inom automatiserad gränssnitts-testning
-Continuous Delivery Chromecast Git HTML5 Javascript Jenkins
-HockeyApp Kibana Spring Framework (core, mvc, boot,
-security) iOS     Avgörande kunskaper iOS: Swift Objective C
-Minst 3 års dokumenterad arbetserfarenhet av utveckling för
-iOS    Bra att ha: tvOS Testdriven utveckling REST-apier
-Continuous Delivery Chromecast Git Jenkins HockeyApp  Kibana
-HTML5 Javascript Android   Start: asap Slut: 30/9
-2019Profinder – erfarna konsulter inom IT, Teknik och
-Management  |  Orgnr. 556684-0616  | Tel: 08 750 49
-00Stockholm  |  Göteborg  |  LinköpingVisa skrivbordsversion

@@ -31,26 +31,26 @@ public class eWorkLinkReceiver extends Helpers implements Links {
         return String.format(STRING_FORMAT,args);
     }
 
-    private void jobs(String name, String password, String subSite) throws IOException {
+    private void addLinkToTheSet(String name, String password, String subSite) throws IOException {
 
-        Document doc = createConnectionWitheWork(name,password, subSite);
+        Document doc = createConnectionWitheWork(name,password,subSite);
 
         Elements elements=doc.select(QUERY);
-
+        
         for (Element e1 : elements) set.add(toString(e1.attr(KEY)));
     }
 
-    private void retrieveLinks(String name, String password) throws IOException {
+    private void addLinkToTheSet(String name, String password) throws IOException {
 
-        jobs(name, password, ASIC);
+        addLinkToTheSet(name, password, ASIC);
 
-        jobs(name, password, FPGA);
+        addLinkToTheSet(name, password, FPGA);
     }
 
     @Override
     public void getLinksFromWebsite(String name, String password)throws IOException {
 
-        retrieveLinks(name, password);
+        addLinkToTheSet(name, password);
     }
 
     @Override

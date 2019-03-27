@@ -6,7 +6,417 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7c415f7-86f6-4c14-9229-84e5698db735" name="Default Changelist" comment="" />
+    <list default="true" id="e7c415f7-86f6-4c14-9229-84e5698db735" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/.net_backend_developer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/.net_backend_developer_focusing_on_api_management__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/.net_backendutvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/.net_developer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/.net_fullstackutvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/.net_utvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/.net_utvecklare_backend__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/2st_sw_utvecklare_till_göteborg__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100286586.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100286586.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100286586old.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100289686.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100289686.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100289686old.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100291393.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100291393.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100291393old.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100291554.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100291554.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100291554old.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100292085.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100292085.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100292085old.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100292162.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100292162.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100292162old.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100294159.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100294159.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100294159old.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100294297.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100294297.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100294297old.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100294325.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100294325.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100294325old.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100294874.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100294874.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100294874old.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100295123.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100295123.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100295123old.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100295282.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100295282.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100295282old.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100295439.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100295439.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100295439old.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100295479.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100295479.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100295479old.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100295616.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100295616.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100295616old.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100295659.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100295659old.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100295722.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100295722.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100295722old.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100295741.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100295741old.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100295801.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100295801old.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100295807.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100295807.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100295807old.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100295822.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100295822.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100295822old.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100296003.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100296003.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100296003old.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/admin_supply_konsult__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/administrativ_projektledare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/agil_coach__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/agilecoach_software_engineer_inom_react_js__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/android_developer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/android_och_ios_developer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/android_och_ios_utvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/androidutvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/app_mjukvaruutvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/application_manager__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/apputvecklare_som_kan_c__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/architect__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/arkitekt__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/aws_arkitekt_expert__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/back_end_engineer,_java__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/backend_developer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/backend_engineer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/backend_infrastructure_engineer __.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/backend_java_developer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/backend_python_rest_utvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/backend_utvecklare_med_go_erfarenhet__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/backendutvecklare_.net,_c__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/big_data_sql_specialist__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/bios_utvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/build_engineer_build_infrastructure_architec__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/business_analyst__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/business_analyst_to_gdpr_project__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/c_developer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/c_sql_utvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/c_utvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/c_utvecklare_med_intresse_för_matematik__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/c_utvecklare_till_vår_kund_i_göteborg__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/change_manager__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/cloud_developer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/cm__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/cm_till_kund_i_stockholm__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/coachande_utvecklare__javascript_frontend)_.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/configurations_manager__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/control_system_engineer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/conversion_manager_digital_analyst__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/core_network_coordinator__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/data_engineer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/data_scientist_analyst__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/dataanalytiker_bi__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/databas_administrator_senior_specialist__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/database_architect__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/database_engineer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/databaskonsult__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/databaskonsulter__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/databasutvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/delivery_lead__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/delivery_manager__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/design_systems_engineer_ios__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/developer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/developer_c__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/developer_java__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/developer_java_ee__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/developer_mobile_sdk_ios__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/devops__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/devops_engineer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/devops_engineer_med_bakgrund_från_utveckling__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/devops_integratör__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/devops_konsult__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/devops_linux_sysadmin__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/devops_teknisk_cm__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/devops_utvecklare__java8)_.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/devopsare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/digital_architect__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drifttekniker_med_beredskap__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/driven_scrum_master__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/elasticsearch__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/electronic_hardware_development_engineer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/elektronikkonstruktör__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/elektronikonstruktör_vhdl__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/embedded_c_utvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/embedded_linux_c__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/embedded_linuxexpert__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/embedded_utvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/embedded_utvecklare_till_kund_i_norrort__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/energy_performance_expert__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/engineer_cloud_integration _.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/engineer_manager__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/erfaren_agil_testledare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/erfaren_frontendutvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/erfaren_ip_network_engineer_designer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/erfaren_java_utvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/erfaren_sw_pl__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/erfaren_tekniker_inom_infrastruktur_och_nätverk_.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/experienced_backend_engineer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/firmwareutvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/floor_manager_driftledare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/fpga_utvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/front_end_javascript_developer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/frontend_developer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/frontendutvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/frontendutvecklare_med_erfarenhet_av_testning__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/fullstack_utvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/fullstackutvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/fw_utvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/hw_designer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/hw_försörjning_och_leverans__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/hw_nära_sw_utvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/hw_nära_utvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/hw_utvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/infrastructure_developer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/integratör__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/interim_manager_qa_chef__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ios__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/iot_app_utvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/iot_ios_developer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ip_network_och_configuration_konsult__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/iptv__javascript__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/it_environment_coordinator_till_linköping__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/it_planning_coordinator_project_leader_technical__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/it_process_developer_redaktör_till_linköping__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/it_project_manager,_within_siam_service_integration__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/it_project_manager_siam__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/it_security_consultant__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/it_specialist_inom_säkerhet_kring_outsourcing__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/itil_asset_and_configuration_manager__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/java_back_end_developer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/java_developer,_backend_developer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/java_developer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/java_ee_utvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/java_j2ee_utvecklare_med_fokus_på_iot_plattformar__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/java_utvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/javaee_utvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/javascript_developer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/javautvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/javautvecklare_arkitekt__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/javautvecklare_med_fokus_på_backend_och_aws__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/javautvecklare_med_telekomerfarenhet__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/junior_c_utvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/konsult_med_erfarenhet_av_hr_och_ad__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/konsulter_inom webb__react)_samt_java_python__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/kravstrateg__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/kvalitets_och_testledare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/labview_konsult__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/labview_utvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/lead_developer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/lead_frontend_developer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/linux,_python__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/linux_c_embedded_utvecklare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/linux_developer_team_lead__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/linux_devops_engineer __.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/linux_elastic_search__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/linux_konsult_med_beredskap__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/linux_system_specialist__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/linux_utvecklare_med_minst_5_års_erfarenhet__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/linux_yocto_expert__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/lösningsarkitekt__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/maintenance_konsult__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/manuell_testare__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/mekanikkonstruktör__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/mekatronikingenjör__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/mjukvaruutvecklare_c__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/mjukvaruutvecklare_java__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/mjukvaruutvecklare_med_erfarenhet_av_opc_ua__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/network_designer__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/network_designer__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/network_engineer__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/network_engineer__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/network_planner__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/network_planner__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/node.js_utvecklare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/node.js_utvecklare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/nätverkstekniker,_accessnät__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/nätverkstekniker,_accessnät__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/nätverkstekniker__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/nätverkstekniker_ccnp__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ombordtestare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/ombordtestare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/onsite_tekniker_med_körkort__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/onsite_tekniker_med_körkort__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/operativ_projektledare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/operativ_projektledare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/php_backend_developer__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/php_backend_developer__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/processexpert__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/processexpert__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/product_manager__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/product_manager__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/product_owner__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/product_owner__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/product_specialist_installerad_bas_service_engineering__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/product_specialist_installerad_bas_service_engineering__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/program_manager_iot_.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/program_manager_iot_.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/project_manager,_it_process_manager__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/project_manager,_it_process_manager__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/project_manager__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/project_manager__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/project_manager_gdpr__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/project_manager_gdpr__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/projektadministratör__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/projektadministratör__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/projektledare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/projektledare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/projektledare__it)_inom_gdpr__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/projektledare__it)_inom_gdpr__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/projektledare_för_integrationsprojekt__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/projektledare_för_integrationsprojekt__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/projektledare_inom_it_och_digitalisering__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/projektledare_inom_it_och_digitalisering__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/projektledare_till_it_utvecklingsprojekt__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/projektledare_till_it_utvecklingsprojekt__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/projektplanerare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/projektplanerare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/qa__testledare_testare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/qa__testledare_testare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/qa_engineer__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/qa_engineer__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/qa_engineer__test_specialist)__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/qa_engineer__test_specialist)__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/qa_manager__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/qa_manager__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/qa_specialist__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/qa_specialist__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/qa_technical_tester__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/qa_technical_tester__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/qa_testare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/qa_testare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/quality_assurance_engineer__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/quality_assurance_engineer__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ran_configurator_ltesim_uctool__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/ran_configurator_ltesim_uctool__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ran_designer__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/ran_designer__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/regulatory_affairs_engineer__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/regulatory_affairs_engineer__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/regulatory_affairs_general__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/regulatory_affairs_general__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/release_manager__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/release_manager__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/release_test_manager__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/release_test_manager__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/requirement_analyst__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/requirement_analyst__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/requirement_engineer_systems_architect__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/requirement_engineer_systems_architect__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/safety_coordinator,_safety_engineer_och_validator__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/safety_coordinator,_safety_engineer_och_validator__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/safety_coordinator__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/safety_coordinator__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/salesforce_utvecklare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/salesforce_utvecklare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/salesforce_utvecklare_som_kan_apex_.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/salesforce_utvecklare_som_kan_apex_.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/scrum_master__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/scrum_master__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/scrum_master_agile_lead__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/scrum_master_agile_lead__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/scrum_master_med_erfarenhet_av_embedded_utveckling__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/scrum_master_med_erfarenhet_av_embedded_utveckling__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/scrum_master_som_kan_c__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/scrum_master_som_kan_c__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/scrum_master_team_leader__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/scrum_master_team_leader__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/scrummaster__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/scrummaster__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/senior_app_utvecklare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/senior_app_utvecklare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/senior_backend_engineer__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/senior_backend_engineer__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/senior_bi_utvecklare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/senior_bi_utvecklare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/senior_bi_web_analytiker__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/senior_bi_web_analytiker__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/senior_business_analyst__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/senior_business_analyst__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/senior_c_software_developer_in_embedded_linux_enviroment__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/senior_c_software_developer_in_embedded_linux_enviroment__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/senior_c_utvecklare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/senior_c_utvecklare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/senior_dba__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/senior_dba__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/senior_engineering_manager__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/senior_engineering_manager__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/senior_eus_infrastructure_architect__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/senior_eus_infrastructure_architect__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/senior_frontendutveckare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/senior_frontendutveckare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/senior_frontendutvecklare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/senior_frontendutvecklare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/senior_fullstackutvecklare_inom_.net_c__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/senior_fullstackutvecklare_inom_.net_c__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/senior_ios_engineer__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/senior_ios_engineer__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/senior_it_arkitekt__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/senior_it_arkitekt__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/senior_it_projektledare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/senior_it_projektledare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/senior_java_backend_developer __.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/senior_java_backend_developer __.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/senior_javautvecklare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/senior_javautvecklare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/senior_kvalitetsledare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/senior_kvalitetsledare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/senior_manager,_product_design__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/senior_manager,_product_design__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/senior_projektledare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/senior_projektledare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/senior_python_java_backend_engineer__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/senior_python_java_backend_engineer__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/senior_software_developer__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/senior_software_developer__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/senior_technical_project_manager__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/senior_technical_project_manager__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/senior_test_developer__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/senior_test_developer__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/senior_testautomatiserare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/senior_testautomatiserare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/senior_utvecklare_devops__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/senior_utvecklare_devops__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/senior_web_developer__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/senior_web_developer__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/senior_web_developer_digital_solutions__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/senior_web_developer_digital_solutions__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/senior_webutvecklare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/senior_webutvecklare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/seniora_android_xamarinutvecklare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/seniora_android_xamarinutvecklare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/seo_manager__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/seo_manager__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/snd__software_defined_network)_utvecklare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/snd__software_defined_network)_utvecklare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/software_developer__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/software_developer__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/software_engineer__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/software_engineer__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/software_engineer_inom_react_js__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/software_engineer_inom_react_js__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/software_test_engineer__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/software_test_engineer__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/solution_architect__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/solution_architect__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/solution_architect_network_till_linköping__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/solution_architect_network_till_linköping__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/solution_architect_storage_till_linköping _.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/solution_architect_storage_till_linköping _.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/solution_architect_unix_linuxtill_linköping__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/solution_architect_unix_linuxtill_linköping__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/solution_architect_windows_till_linköping__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/solution_architect_windows_till_linköping__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/sql_utvecklare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/sql_utvecklare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/strategisk_nätplanerare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/strategisk_nätplanerare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/supporttekniker_med_nätkunskaper__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/supporttekniker_med_nätkunskaper__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/sw_developer__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/sw_developer__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/sw_konsult__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/sw_konsult__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/sw_project_manager__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/sw_project_manager__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/system_engineer__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/system_engineer__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/system_engineer_consultants__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/system_engineer_consultants__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/system_engineer_hyper_v_expert__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/system_engineer_hyper_v_expert__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/system_engineer_linux__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/system_engineer_linux__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/system_integrationstestare_för_långt_uppdrag__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/system_integrationstestare_för_långt_uppdrag__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/system_integrator__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/system_integrator__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/system_specialist_ip_access_configuration_operations__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/system_specialist_ip_access_configuration_operations__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/system_tester_–_consumer_iot_products__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/system_tester_–_consumer_iot_products__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/systemarkitekt__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/systemarkitekt__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/systemdesigner__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/systemdesigner__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/systemdesigner_backend_utvecklare_för_iot__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/systemdesigner_backend_utvecklare_för_iot__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/systemtestare_inom_iot__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/systemtestare_inom_iot__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/systemutvecklare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/systemutvecklare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/systemutvecklare_inom_c__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/systemutvecklare_inom_c__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/systemutvecklare_med_yocto_erfarenhet__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/systemutvecklare_med_yocto_erfarenhet__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/systemägare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/systemägare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/söker_databaskonsult,_oracle__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/söker_databaskonsult,_oracle__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/team_leader_scrum_master__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/team_leader_scrum_master__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/teamledare_network_planning__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/teamledare_network_planning__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/tech_integration_manager__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/tech_integration_manager__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/tech_lead_developer__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/tech_lead_developer__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/technical_consultant__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/technical_consultant__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/technical_program_manager__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/technical_program_manager__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/teknisk_pl__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/teknisk_pl__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/teknisk_projekt_cm__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/teknisk_projekt_cm__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/teknisk_projektledare_koordinator__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/teknisk_projektledare_koordinator__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/teknisk_qa__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/teknisk_qa__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/teknisk_testare_testande_testledare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/teknisk_testare_testande_testledare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/test_engineer__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/test_engineer__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/test_environment_engineer__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/test_environment_engineer__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/test_och_uppdragsledare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/test_och_uppdragsledare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/test_qa__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/test_qa__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/test_specialist__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/test_specialist__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/test_specialist _.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/test_specialist _.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/testande_testledare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/testande_testledare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/testare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/testare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/testare_av_appar__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/testare_av_appar__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/testare_testledare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/testare_testledare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/testautomatiserare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/testautomatiserare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/testautomatiserare_minst_5_års_erfarenhet__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/testautomatiserare_minst_5_års_erfarenhet__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/tester__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/tester__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/teststrateg__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/teststrateg__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/testutvecklare_som_kan_python__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/testutvecklare_som_kan_python__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/transformation_manager__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/transformation_manager__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/utvecklande_systemarkitekt__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/utvecklande_systemarkitekt__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/utvecklare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/utvecklare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/utvecklare_arkitekt__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/utvecklare_arkitekt__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/utvecklare_c,_java__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/utvecklare_c,_java__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/utvecklare_c__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/utvecklare_c__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/utvecklare_go,_react__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/utvecklare_go,_react__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/utvecklare_inom_ai__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/utvecklare_inom_ai__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/utvecklare_inom_python_java_yang_och_networking__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/utvecklare_inom_python_java_yang_och_networking__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/utvecklare_inom_webb_och_mobila_tjänster__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/utvecklare_inom_webb_och_mobila_tjänster__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/utvecklare_linux__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/utvecklare_linux__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/utvecklare_med_erfarenhet_av_big_data_och_machine_learning__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/utvecklare_med_erfarenhet_av_big_data_och_machine_learning__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/utvecklare_som_kan_docker_kubernetes__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/utvecklare_som_kan_docker_kubernetes__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ux_designer__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/ux_designer__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ux_product_design__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/ux_product_design__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ux_product_designer__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/ux_product_designer__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/vcloud_director_expert__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/vcloud_director_expert__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/visma_business_utvecklare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/visma_business_utvecklare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/web_developer__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/web_developer__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/web_engineer__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/web_engineer__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/web_gui_engineer__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/web_gui_engineer__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/webb_analytiker__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/webb_analytiker__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/windows_sysadmin__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/windows_sysadmin__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/windowstekniker__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/windowstekniker__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/windowstekniker_som_kan_nät_och_utveckling__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/windowstekniker_som_kan_nät_och_utveckling__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/windowsutvecklare__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/windowsutvecklare__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/windowsutvecklare_med_fokus_på_säkerhet__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/windowsutvecklare_med_fokus_på_säkerhet__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ android_developer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ devops__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ embedded_utvecklare_med_fokus_på_c__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ engineering_manager__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ front_end_developer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ fullstack_developer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ product_manager__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ project_manager__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ projektledare_team_lead__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ requirementanalyst_till_linköping__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ senior_data_scientist__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ senior_ios_developer__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/ utvecklare_som_kan_docker_och_kubernetes__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/­­­­­­­­­­­­­solution_architect_virtualization_till_linköping__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/­­­­­­­­­­­­­solution_architect_virtualization_till_linköping__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Driver/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Driver/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Integration/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Integration/DBConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderPathCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderPathCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Websites/Utility/Helpers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Websites/Utility/Helpers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkLinkReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkLinkReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkPathCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkPathCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Driver/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Driver/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Integration/DBConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Integration/DBConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Websites/ProFinder/ProFinderPathCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Websites/ProFinder/ProFinderPathCreator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Websites/Utility/Helpers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Websites/Utility/Helpers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Websites/eWork/eWorkLinkReceiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Websites/eWork/eWorkLinkReceiver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Websites/eWork/eWorkPathCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Websites/eWork/eWorkPathCreator.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,12 +440,41 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Integration/DBConnection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+            <state relative-caret-position="315">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#557#558#0" expanded="true" />
+                <element signature="e#583#584#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkPathCreator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="795">
+              <caret line="53" column="140" selection-start-line="53" selection-start-column="140" selection-end-line="53" selection-end-column="140" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderPathCreator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -55,6 +494,7 @@
       <find>a href</find>
       <find>create</find>
       <find>HOST</find>
+      <find>getstring</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -85,19 +525,19 @@
         <option value="$PROJECT_DIR$/src/main/java/Websites/Interfaces/Files.java" />
         <option value="$PROJECT_DIR$/src/main/java/Websites/Interfaces/FileHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/Websites/Interfaces/Helpers.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/Integration/DBConnection.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderLinkReceiver.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderPathCreator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkLinkReceiver.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkPathCreator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Websites/Utility/Helpers.java" />
         <option value="$PROJECT_DIR$/src/main/java/Mail/MailCreator.java" />
         <option value="$PROJECT_DIR$/src/main/java/Integration/FileHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/Integration/Metadata.java" />
         <option value="$PROJECT_DIR$/src/main/java/Mail/MailHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/Websites/Utility/Links.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkLinkReceiver.java" />
         <option value="$PROJECT_DIR$/src/main/java/Driver/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderPathCreator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Websites/Utility/Helpers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderLinkReceiver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkPathCreator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Integration/DBConnection.java" />
       </list>
     </option>
   </component>
@@ -131,7 +571,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,6 +581,11 @@
             <path>
               <item name="JOBFINDER" type="b2602c69:ProjectViewProjectNode" />
               <item name="JOBFINDER" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JOBFINDER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JOBFINDER" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -163,20 +607,65 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Mail" type="462c0819:PsiDirectoryNode" />
+              <item name="Driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JOBFINDER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JOBFINDER" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Integration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JOBFINDER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JOBFINDER" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Websites" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JOBFINDER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JOBFINDER" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Websites" type="462c0819:PsiDirectoryNode" />
+              <item name="eWork" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JOBFINDER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JOBFINDER" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Websites" type="462c0819:PsiDirectoryNode" />
+              <item name="ProFinder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JOBFINDER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JOBFINDER" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Websites" type="462c0819:PsiDirectoryNode" />
+              <item name="Utility" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553559175998" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553717034892" />
+    <property name="database.console.LAST_STATE" value="false" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -200,7 +689,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MailCreator">
+  <component name="RunManager" selected="Application.DBConnection">
     <configuration name="DBConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Integration.DBConnection" />
       <module name="Forslund" />
@@ -214,12 +703,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MailCreator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mail.MailCreator" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Driver.Main" />
       <module name="Forslund" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Mail.*" />
+          <option name="PATTERN" value="Driver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,12 +716,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Driver.Main" />
+    <configuration name="ProFinderLinkReceiver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Websites.ProFinder.ProFinderLinkReceiver" />
       <module name="Forslund" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Driver.*" />
+          <option name="PATTERN" value="Websites.ProFinder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,15 +760,15 @@
       <item itemvalue="Application.eWorkPathCreator" />
       <item itemvalue="Application.ProFinderPathCreator" />
       <item itemvalue="Application.DBConnection" />
-      <item itemvalue="Application.MailCreator" />
+      <item itemvalue="Application.ProFinderLinkReceiver" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MailCreator" />
-        <item itemvalue="Application.eWorkPathCreator" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.DBConnection" />
         <item itemvalue="Application.ProFinderPathCreator" />
+        <item itemvalue="Application.ProFinderLinkReceiver" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.eWorkPathCreator" />
       </list>
     </recent_temporary>
   </component>
@@ -335,6 +824,7 @@
       <workItem from="1553557271142" duration="1895000" />
       <workItem from="1553559295175" duration="229000" />
       <workItem from="1553560055481" duration="302000" />
+      <workItem from="1553690201150" duration="7394000" />
     </task>
     <task id="LOCAL-00001" summary="fixed 2nd website, minor changes">
       <created>1548443686392</created>
@@ -347,22 +837,23 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86614000" />
+    <option name="totallyTimeSpent" value="94008000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2374798" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24071082" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Database Console" weight="0.32913166" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3277311" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31932774" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31932774" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -428,8 +919,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="fixed 2nd website, minor changes" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.9.1/jsoup-1.9.1.jar!/org/jsoup/nodes/Element.class" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/function/Predicate.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/io/File.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/String.java" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/Jobs/test.txt" />
@@ -473,7 +962,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/.net_developer__old.txt" />
     <entry file="file://$PROJECT_DIR$/res/ProjectView_framed.cfm?PROJECT_ID_100286586.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-212" />
@@ -487,13 +975,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/senior_javautvecklare__.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/Utility/FileHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/7888a1d2-721d-4cb2-8c97-575c05515595/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
@@ -516,100 +997,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Integration/FileHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="31" column="104" selection-start-line="31" selection-start-column="104" selection-end-line="31" selection-end-column="104" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Integration/DBConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="767">
-          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkLinkReceiver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="87" column="41" lean-forward="true" selection-start-line="87" selection-start-column="41" selection-end-line="87" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2037#2038#0" expanded="true" />
-            <element signature="e#2094#2095#0" expanded="true" />
-            <element signature="e#2157#2158#0" expanded="true" />
-            <element signature="e#2214#2215#0" expanded="true" />
-            <element signature="e#2271#2272#0" expanded="true" />
-            <element signature="e#2328#2329#0" expanded="true" />
-            <element signature="e#2387#2388#0" expanded="true" />
-            <element signature="e#2444#2445#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkPathCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1095">
-          <caret line="73" column="44" lean-forward="true" selection-start-line="73" selection-start-column="44" selection-end-line="73" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1713#1714#0" expanded="true" />
-            <element signature="e#1770#1771#0" expanded="true" />
-            <element signature="e#1831#1832#0" expanded="true" />
-            <element signature="e#1888#1889#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/Utility/Links.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="88" selection-start-line="17" selection-start-column="88" selection-end-line="17" selection-end-column="88" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/Utility/Helpers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1359">
-          <caret line="40" column="48" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderPathCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-413">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderLinkReceiver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
-          <caret line="62" column="65" lean-forward="true" selection-start-line="62" selection-start-column="65" selection-end-line="62" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1591#1592#0" expanded="true" />
-            <element signature="e#1648#1649#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Mail/MailHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
@@ -625,27 +1012,165 @@
     <entry file="file://$PROJECT_DIR$/res/ senior_data_scientist__.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Mail/MailCreator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/Utility/Links.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Driver/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkLinkReceiver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="765">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1003#1004#0" expanded="true" />
+            <element signature="e#1059#1060#0" expanded="true" />
+            <element signature="e#2182#2183#0" expanded="true" />
+            <element signature="e#2239#2240#0" expanded="true" />
+            <element signature="e#2302#2303#0" expanded="true" />
+            <element signature="e#2359#2360#0" expanded="true" />
+            <element signature="e#2416#2417#0" expanded="true" />
+            <element signature="e#2473#2474#0" expanded="true" />
+            <element signature="e#2532#2533#0" expanded="true" />
+            <element signature="e#2589#2590#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Mail/MailCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/Utility/FileHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Integration/FileHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.15/mysql-connector-java-8.0.15.jar!/com/mysql/cj/jdbc/exceptions/SQLError.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Driver/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="60" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/.net_developer__.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/.net_developer__old.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/.net_utvecklare__old.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/.net_utvecklare__.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/product_manager__old.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="691" selection-start-column="691" selection-end-column="691" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/product_manager__.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/product_owner__.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/Utility/Helpers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="98" column="75" selection-start-line="98" selection-start-column="75" selection-end-line="98" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderLinkReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="51" column="29" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderPathCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkPathCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" column="140" selection-start-line="53" selection-start-column="140" selection-end-line="53" selection-end-column="140" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Integration/DBConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -47,7 +47,11 @@ public class eWorkPathCreator extends Helpers implements FileHandler {
 
             file=new File(createAndWrite(pf,username,password));
 
+            System.out.println("CREATED FILE: "+ file.getName() );
+
             formatFile(pf);
+
+            if (file.getName().contains(OLD)) System.out.println("FOUND OLD FILE " + file.getName() + "deleting is done: " + file.delete());
 
             files.add(file);
         }

@@ -51,6 +51,10 @@ public class ProFinderPathCreator extends Helpers implements FileHandler {
 
             formatFile(pf);
 
+            System.out.println("CREATED FILE: "+ file.getName() );
+
+            if (file.getName().contains(OLD)) System.out.println("FOUND OLD FILE " + file.getName() + "deleting is done: " + file.delete());
+
             files.add(file);
         }
     }

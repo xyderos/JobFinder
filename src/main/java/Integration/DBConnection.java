@@ -32,8 +32,6 @@ public class DBConnection {
 
         FileHandler.getAds(eWName,eWpass);
 
-        FileHandler.cleanDub();
-
         insert();
 
         this.res=getRecentAdvertisements();

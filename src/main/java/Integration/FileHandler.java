@@ -26,9 +26,4 @@ class FileHandler {
 
         return folder.listFiles();
     }
-
-    static void cleanDub(){
-
-        for (File file : files())  if(file.getName().contains("old")) System.out.println(file.delete());
-    }
 }

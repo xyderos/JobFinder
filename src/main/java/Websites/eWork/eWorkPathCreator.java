@@ -39,11 +39,11 @@ public class eWorkPathCreator extends Helpers implements FileHandler {
     }
 
     @Override
-    public void toFiles(String username,String password) throws IOException {
+    public void toFiles(String username,String password,String query) throws IOException {
 
         File file;
 
-        for (String pf : eWorkLinkReceiver.getSetFromWebsite(username,password) ){
+        for (String pf : eWorkLinkReceiver.getSetFromWebsite(username,password,query) ){
 
             file=new File(createAndWrite(pf,username,password));
 
@@ -58,19 +58,7 @@ public class eWorkPathCreator extends Helpers implements FileHandler {
     }
 
     @Override
-    public void formatFile(String path) throws IOException {
-
-        String fileName= ProFinderPathCreator.PATH+extractName(path)+TXT;
-
-        BufferedReader br=new BufferedReader(new FileReader(fileName));
-
-        fileName=fileName.replaceAll(Pattern.quote(OLD),EMPTY);
-
-        writeFile(fileName,br);
-    }
-
-    @Override
-    public void toFiles() {
+    public void toFiles(String query) {
         throw new UnsupportedOperationException();
     }
 

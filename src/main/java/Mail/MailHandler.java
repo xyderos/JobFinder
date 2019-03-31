@@ -27,7 +27,7 @@ public class MailHandler {
 
     private DBConnection dbc;
 
-    public MailHandler(String from, String pass, String dbname, String dbpass, String eWorkname, String eWorkPass) {
+    public MailHandler(String from, String pass, String dbname, String dbpass, String eWorkname, String eWorkPass,String query) {
         this.from = from;
         this.pass = pass;
 
@@ -36,7 +36,7 @@ public class MailHandler {
             public void run() {
 
                 try {
-                    dbc = new DBConnection(dbname, dbpass, eWorkname, eWorkPass);
+                    dbc = new DBConnection(dbname, dbpass, eWorkname, eWorkPass,query);
                     res = dbc.getRes();
                     sendJobsToEveryConsultant();
                 } catch (final Exception e) {

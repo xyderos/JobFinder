@@ -8,6 +8,9 @@ import org.jsoup.nodes.FormElement;
 import org.jsoup.select.Elements;
 
 import java.io.*;
+import java.util.HashSet;
+import java.util.Objects;
+import java.util.Set;
 import java.util.regex.Pattern;
 
 import static org.apache.commons.lang3.text.WordUtils.wrap;
@@ -40,11 +43,33 @@ public abstract class Helpers {
 
     private static final int CHAR_PER_LINE = 100;
 
-    public abstract void formatFile(String file) throws IOException;
+    private static final String SLASH="/";
+
+    private static final String PORTAL="portal";
+
+    private String PATH=System.getProperty("user.dir") + "/res/";
+
+    private static final String FMT="\\W+";
+
+    private String TXT = ".txt";
+
+    private static final String KEY="abs:href";
+
+    private static final String QUERY="a[href]";
 
     public abstract String extractName(String url) throws IOException;
 
-    protected void writeFile(String fName, BufferedReader br)throws IOException{
+    protected String getString(String query, String search) {
+        String[] words = query.split(FMT);
+
+        StringBuilder q= new StringBuilder(search);
+
+        for (String e: words) q.append("+").append(e);
+
+        return q.toString();
+    }
+
+    private void writeFile(String fName, BufferedReader br)throws IOException{
 
         BufferedWriter out=new BufferedWriter(new FileWriter(fName));
 
@@ -63,7 +88,7 @@ public abstract class Helpers {
 
         Elements paragraphs = doc.select(PARAGRAPH);
 
-        return getString(fileName, out, paragraphs);
+        return getString(fileName, out, paragraphs, null);
 
     }
 
@@ -78,10 +103,9 @@ public abstract class Helpers {
         assert newFile;
 
         return new BufferedWriter(new FileWriter(fileName));
-
     }
 
-    private String getString(String fileName, BufferedWriter out, Elements paragraphs) throws IOException {
+    private String getString(String fileName, BufferedWriter out, Elements paragraphs,String link) throws IOException {
         for (Element p : paragraphs) {
 
             String s = p.text();
@@ -90,10 +114,37 @@ public abstract class Helpers {
 
             out.write(s);
         }
-        if (out != null)  out.close();
 
+        if (link!=null){
+
+            Objects.requireNonNull(out).write(link);
+            out.close();
+
+            return fileName;
+        }
+
+        if (out != null) out.close();
 
         return fileName;
+    }
+
+    public String toString(Object... args) {
+        return String.format("%s",args);
+    }
+
+    private String extractLinkForApplication(Document doc){
+
+        Set<String> s=new HashSet<>();
+
+        Elements elements = doc.select(QUERY);
+
+        for (Element e : elements) s.add(toString(e.attr(KEY)));
+
+        s.removeIf(str -> !str.contains(PORTAL));
+
+        for (String f : s)  if (f.contains(PORTAL)) return f;
+
+        return null;
     }
 
     protected String create(String fileName,String url) throws IOException{
@@ -104,12 +155,18 @@ public abstract class Helpers {
 
         Elements paragraphs = doc.select(PARAGRAPH);
 
-        return getString(fileName, out, paragraphs);
+        String link=extractLinkForApplication(doc);
+
+        return getString(fileName, out, paragraphs,link);
     }
 
     protected String setDetails(String t,String arg1,String arg2){
 
+        if (t.contains(SLASH)) t=t.replaceAll(Pattern.quote(SLASH),UNDERSCORE);
+
         if (t.contains(arg1)) t=t.replaceAll(Pattern.quote(arg1),UNDERSCORE);
+
+        if (arg2==null) arg2="";
 
         if (t.contains(arg2)) t=t.replaceAll(Pattern.quote(arg2),UNDERSCORE);
 
@@ -151,5 +208,47 @@ public abstract class Helpers {
         Element btn = form.select(button).first();
 
         btn.val(bAnswer);
+    }
+
+    protected void formatFile(String path) throws IOException{
+
+
+        String fileName= PATH+extractName(path)+ TXT;
+
+        BufferedReader br=new BufferedReader(new FileReader(fileName));
+
+        String EMPTY = "";
+        fileName=fileName.replaceAll(Pattern.quote(OLD), EMPTY);
+
+        writeFile(fileName,br);
+    }
+
+    protected void toFiles(String query, HashSet<String> s, HashSet<File> ns) throws Exception {
+
+        System.out.println("LOOKING FOR: " + query);
+
+        File file;
+
+        for(String pf:s){
+
+            file=new File(createAndWrite(pf));
+
+            formatFile(pf);
+
+            System.out.println("CREATED FILE: "+ file.getName() );
+
+            if (file.getName().contains(OLD)) System.out.println("FOUND OLD FILE " + file.getName() + " deleting is done: " + file.delete());
+
+            ns.add(file);
+        }
+    }
+
+    protected String createAndWrite(String url) throws Exception {
+
+        String name=extractName(url);
+
+        String fileName= PATH+name+TXT;
+
+        return create(fileName,url);
     }
 }

@@ -14,9 +14,7 @@ public class eWorkLinkReceiver extends Helpers implements Links {
 
     private static HashSet<String> set=new HashSet<>();
 
-    private static final String FPGA="https://myework.eworkgroup.com/RequestList.cfm?page=1&competence_group_id=&competence_area_category_area_id=&country_city_id=&description=fpga";
-
-    private static final String ASIC="https://myework.eworkgroup.com/RequestList.cfm?page=1&competence_group_id=&competence_area_category_area_id=&country_city_id=&description=ASIC";
+    private static final String SEARCH="https://myework.eworkgroup.com/RequestList.cfm?page=1&competence_group_id=&competence_area_category_area_id=&country_city_id=&description=fpga";
 
     private static final String KEY="abs:href";
 
@@ -26,12 +24,17 @@ public class eWorkLinkReceiver extends Helpers implements Links {
 
     private static final String PROJECT_ID="PROJECT_ID";
 
+    private String returnSearchForm(String query){
+
+        return getString(query, SEARCH);
+    }
+
     @Override
     public String toString(Object...args) {
         return String.format(STRING_FORMAT,args);
     }
 
-    private void addLinkToTheSet(String name, String password, String subSite) throws IOException {
+    private void findAndAdd(String name, String password, String subSite) throws IOException {
 
         Document doc = createConnectionWitheWork(name,password,subSite);
 
@@ -40,17 +43,16 @@ public class eWorkLinkReceiver extends Helpers implements Links {
         for (Element e1 : elements) set.add(toString(e1.attr(KEY)));
     }
 
-    private void addLinkToTheSet(String name, String password) throws IOException {
+    private void addLinkToTheSet(String name, String password, String query) throws IOException {
 
-        addLinkToTheSet(name, password, ASIC);
+        findAndAdd(name, password, returnSearchForm(query));
 
-        addLinkToTheSet(name, password, FPGA);
     }
 
     @Override
-    public void getLinksFromWebsite(String name, String password)throws IOException {
+    public void getLinksFromWebsite(String name, String password,String query)throws IOException {
 
-        addLinkToTheSet(name, password);
+        addLinkToTheSet(name, password,query);
     }
 
     @Override
@@ -60,9 +62,9 @@ public class eWorkLinkReceiver extends Helpers implements Links {
     }
 
     @Override
-    public HashSet<String> getSetFromWebsite(String email, String password) throws IOException{
+    public HashSet<String> getSetFromWebsite(String email, String password,String query) throws IOException{
 
-        getLinksFromWebsite(email,password);
+        getLinksFromWebsite(email,password,query);
 
         deleteWrongResults();
 
@@ -70,12 +72,12 @@ public class eWorkLinkReceiver extends Helpers implements Links {
     }
 
     @Override
-    public void getLinksFromWebsite(){
+    public void getLinksFromWebsite(String query){
         throw new UnsupportedOperationException();
     }
 
     @Override
-    public HashSet<String> getSetFromWebsite(){
+    public HashSet<String> getSetFromWebsite(String query){
         throw new UnsupportedOperationException();
     }
 

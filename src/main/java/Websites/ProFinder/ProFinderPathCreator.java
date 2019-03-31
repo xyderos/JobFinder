@@ -5,7 +5,6 @@ import Websites.Utility.Helpers;
 
 import java.io.*;
 import java.util.HashSet;
-import java.util.regex.Pattern;
 
 public class ProFinderPathCreator extends Helpers implements FileHandler {
 
@@ -31,8 +30,7 @@ public class ProFinderPathCreator extends Helpers implements FileHandler {
     }
 
     @Override
-    public String createAndWrite(String url) throws IOException{
-
+    public String createAndWrite(String url) throws Exception{
         String name=extractName(url);
 
         String fileName= PATH+name+TXT;
@@ -41,39 +39,12 @@ public class ProFinderPathCreator extends Helpers implements FileHandler {
     }
 
     @Override
-    public void toFiles() throws IOException{
-
-        File file;
-
-        for(String pf: pf.getSetFromWebsite()){
-
-            file=new File(createAndWrite(pf));
-
-            formatFile(pf);
-
-            System.out.println("CREATED FILE: "+ file.getName() );
-
-            if (file.getName().contains(OLD)) System.out.println("FOUND OLD FILE " + file.getName() + "deleting is done: " + file.delete());
-
-            files.add(file);
-        }
+    public void toFiles(String query) throws Exception{
+       toFiles(query,pf.getSetFromWebsite(query),files);
     }
 
     @Override
-    public void formatFile(String path) throws IOException{
-
-        String fileName= PATH+extractName(path)+TXT;
-
-        BufferedReader br=new BufferedReader(new FileReader(fileName));
-
-        fileName=fileName.replaceAll(Pattern.quote(OLD),EMPTY);
-
-        writeFile(fileName,br);
-
-    }
-
-    @Override
-    public void toFiles(String user, String password) {
+    public void toFiles(String user, String password,String query ) {
         throw new UnsupportedOperationException();
     }
 

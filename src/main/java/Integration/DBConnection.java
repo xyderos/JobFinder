@@ -6,7 +6,7 @@ import java.util.Objects;
 
 public class DBConnection {
 
-    private static final String URL="jdbc:mysql://localhost:3306/test";
+    private static final String URL="jdbc:mysql://localhost:3306/test?useLegacyDatetimeCode=false&serverTimezone=UTC";
 
     private static final String DRIVER="com.mysql.cj.jdbc.Driver";
 
@@ -24,13 +24,13 @@ public class DBConnection {
         return res;
     }
 
-    public DBConnection(String name, String password, String eWName, String eWpass) throws Exception {
+    public DBConnection(String name, String password, String eWName, String eWpass,String query) throws Exception {
 
         Class.forName(DRIVER);
 
         CONNECTION=DriverManager.getConnection(URL, name, password);
 
-        FileHandler.getAds(eWName,eWpass);
+        FileHandler.getAds(eWName,eWpass,query);
 
         insert();
 

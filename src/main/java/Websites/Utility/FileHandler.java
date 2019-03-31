@@ -4,22 +4,20 @@ import java.io.IOException;
 
 public interface FileHandler {
 
-    String EMPTY="";
+    String TXT=".txt";
 
     String OLD="old";
 
     String PATH=System.getProperty("user.dir") + "/res/";
 
-    String TXT=".txt";
-
     String extractName(String url);
 
-    String createAndWrite(String url)throws IOException;
+    String createAndWrite(String url)throws IOException, Exception;
 
-    String createAndWrite(String url, String username, String pass) throws IOException;
+    String createAndWrite(String url, String username, String pass) throws IOException, Exception;
 
-    void toFiles() throws IOException;
+    void toFiles(String query) throws IOException, Exception;
 
-    void toFiles(String user, String password) throws IOException;
+    void toFiles(String user, String password,String query) throws IOException;
 
 }

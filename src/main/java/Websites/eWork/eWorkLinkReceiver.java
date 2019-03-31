@@ -1,94 +1,32 @@
 package Websites.eWork;
 
-import Websites.Utility.Helpers;
-import Websites.Utility.Links;
+import Websites.Utility.LinkHelpers;
 
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
-import org.jsoup.select.Elements;
 
 import java.io.IOException;
 import java.util.HashSet;
 
-public class eWorkLinkReceiver extends Helpers implements Links {
+public class eWorkLinkReceiver extends LinkHelpers{
 
     private static HashSet<String> set=new HashSet<>();
 
-    private static final String SEARCH="https://myework.eworkgroup.com/RequestList.cfm?page=1&competence_group_id=&competence_area_category_area_id=&country_city_id=&description=fpga";
-
-    private static final String KEY="abs:href";
-
-    private static final String QUERY="a[href]";
-
-    private static final String STRING_FORMAT="%s";
+    private static final String SEARCH="https://myework.eworkgroup.com/RequestList.cfm?page=1&competence_group_id=&competence_area_category_area_id=&country_city_id=&description=";
 
     private static final String PROJECT_ID="PROJECT_ID";
 
-    private String returnSearchForm(String query){
-
-        return getString(query, SEARCH);
-    }
-
     @Override
-    public String toString(Object...args) {
-        return String.format(STRING_FORMAT,args);
-    }
-
-    private void findAndAdd(String name, String password, String subSite) throws IOException {
-
-        Document doc = createConnectionWitheWork(name,password,subSite);
-
-        Elements elements=doc.select(QUERY);
-        
-        for (Element e1 : elements) set.add(toString(e1.attr(KEY)));
-    }
-
-    private void addLinkToTheSet(String name, String password, String query) throws IOException {
-
-        findAndAdd(name, password, returnSearchForm(query));
-
-    }
-
-    @Override
-    public void getLinksFromWebsite(String name, String password,String query)throws IOException {
-
-        addLinkToTheSet(name, password,query);
-    }
-
-    @Override
-    public void deleteWrongResults(){
-
+    public void deleteWrongResults(HashSet<String> set){
         set.removeIf(s -> !s.contains(PROJECT_ID));
     }
 
     @Override
-    public HashSet<String> getSetFromWebsite(String email, String password,String query) throws IOException{
+    public HashSet<String> getSetFromWebsite(String query, String email, String password) throws IOException {
 
-        getLinksFromWebsite(email,password,query);
+        getLinksFromWebsite(email,password,SEARCH,query,set);
 
-        deleteWrongResults();
+        deleteWrongResults(set);
 
         return set;
-    }
-
-    @Override
-    public void getLinksFromWebsite(String query){
-        throw new UnsupportedOperationException();
-    }
-
-    @Override
-    public HashSet<String> getSetFromWebsite(String query){
-        throw new UnsupportedOperationException();
-    }
-
-    @Override
-    public void formatFile(String file) {
-        throw new UnsupportedOperationException();
-    }
-
-    @Override
-    public String extractName(String url) {
-        throw new UnsupportedOperationException();
     }
 }
 

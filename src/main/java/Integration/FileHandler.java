@@ -5,7 +5,6 @@ import Websites.eWork.eWorkPathCreator;
 import Websites.AF.AFPathCreator;
 
 import java.io.File;
-import java.io.IOException;
 
 class FileHandler {
 
@@ -15,12 +14,14 @@ class FileHandler {
 
     private static AFPathCreator af=new AFPathCreator();
 
+    private static final String DIR=System.getProperty("user.dir")+ "/res/";
+
     static void getAds(String username, String password,String query) throws Exception {
 
         Thread t1 = new Thread(() -> {
             try {
-                ew.toFiles(username,password,query);
-            } catch (IOException e) {
+                ew.init(username,password,query);
+            } catch (Exception e) {
                 e.printStackTrace();
             }
         });
@@ -28,7 +29,7 @@ class FileHandler {
 
         Thread t2 = new Thread(() -> {
             try {
-                af.toFiles(query);
+                af.init(query,null,null);
             } catch (Exception e) {
                 e.printStackTrace();
             }
@@ -37,11 +38,13 @@ class FileHandler {
 
         Thread t3 = new Thread(() -> {
             try {
-                pf.toFiles(query);
+                pf.init(query,null,null);
             } catch (Exception e) {
                 e.printStackTrace();
             }
         });
+
+
         t3.start();
 
         t1.join();
@@ -54,9 +57,7 @@ class FileHandler {
 
     static File[] files(){
 
-        String f=System.getProperty("user.dir")+ "/res/";
-
-        File folder = new File(f);
+        File folder = new File(DIR);
 
         return folder.listFiles();
     }

@@ -7,32 +7,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7c415f7-86f6-4c14-9229-84e5698db735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Websites/AF/AFLinkReceiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Websites/AF/AFPathCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Websites/Utility/FileHelpers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/konstantinos.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/konstantinos.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Driver/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Driver/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Integration/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Integration/DBConnection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Integration/FileHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Integration/FileHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Mail/MailHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Mail/MailHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Websites/AF/AFLinkReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Websites/AF/AFLinkReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Websites/AF/AFPathCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Websites/AF/AFPathCreator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderLinkReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderLinkReceiver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderPathCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderPathCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Websites/Utility/FileHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Websites/Utility/FileHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Websites/Utility/Helpers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Websites/Utility/Helpers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Websites/Utility/Links.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Websites/Utility/Links.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Websites/Utility/FileHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Websites/Utility/Helpers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Websites/Utility/Links.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkLinkReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkLinkReceiver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkPathCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkPathCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Driver/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Driver/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Integration/DBConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Integration/DBConnection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Integration/FileHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Integration/FileHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Mail/MailHandler$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Mail/MailHandler$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Mail/MailHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Mail/MailHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Websites/ProFinder/ProFinderLinkReceiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Websites/ProFinder/ProFinderLinkReceiver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Websites/ProFinder/ProFinderPathCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Websites/ProFinder/ProFinderPathCreator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Websites/Utility/FileHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Websites/Utility/FileHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Websites/Utility/Helpers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Websites/Utility/Helpers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Websites/Utility/Links.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Websites/Utility/Links.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Websites/eWork/eWorkLinkReceiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Websites/eWork/eWorkLinkReceiver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Websites/eWork/eWorkPathCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Websites/eWork/eWorkPathCreator.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -58,50 +45,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Integration/DBConnection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+            <state relative-caret-position="26">
+              <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#689#690#0" expanded="true" />
                 <element signature="e#715#716#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Driver/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Websites/AF/AFPathCreator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-96">
-              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#950#951#0" expanded="true" />
-                <element signature="e#1007#1008#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Websites/AF/AFLinkReceiver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="72" selection-start-line="72" selection-end-line="72" />
-              <folding>
-                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -122,8 +74,12 @@
       <find>a href</find>
       <find>create</find>
       <find>HOST</find>
-      <find>getstring</find>
       <find>extract</find>
+      <find>getlinksfromwebsite</find>
+      <find>createconnection</find>
+      <find>fill</find>
+      <find>getString</find>
+      <find>getstring</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -158,21 +114,27 @@
         <option value="$PROJECT_DIR$/src/main/java/Integration/Metadata.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Mail/MailHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Websites/Utility/Links.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkLinkReceiver.java" />
         <option value="$PROJECT_DIR$/src/main/java/Websites/ÅF/ÅFLinkReceiver.java" />
         <option value="$PROJECT_DIR$/src/main/java/Websites/ÅF/ÅFPathCreator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkPathCreator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Websites/Utility/FileHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Integration/FileHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderLinkReceiver.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderPathCreator.java" />
         <option value="$PROJECT_DIR$/src/main/java/Websites/ÅF/AFLinkReceiver.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Websites/Utility/Helpers.java" />
         <option value="$PROJECT_DIR$/src/main/java/Integration/DBConnection.java" />
         <option value="$PROJECT_DIR$/src/main/java/Websites/ÅF/AFPathCreator.java" />
         <option value="$PROJECT_DIR$/src/main/java/Driver/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Websites/Utility/eWorkConnection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Websites/Utility/Helpers.java" />
         <option value="$PROJECT_DIR$/src/main/java/Websites/AF/AFPathCreator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Websites/eWork/pathCreatorHelpers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderPathCreator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Websites/eWork/linkReceiverHelpers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Websites/Utility/FileHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Websites/Utility/FileHelpers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkPathCreator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Websites/Utility/Links.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Websites/Utility/LinkHelpers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkLinkReceiver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderLinkReceiver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Websites/AF/AFLinkReceiver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Integration/FileHandler.java" />
       </list>
     </option>
   </component>
@@ -206,8 +168,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -244,27 +204,21 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Driver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JOBFINDER" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JOBFINDER" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Websites" type="462c0819:PsiDirectoryNode" />
+              <item name="Integration" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554056187283" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554075569406" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -426,7 +380,8 @@
       <workItem from="1553560055481" duration="302000" />
       <workItem from="1553690201150" duration="8334000" />
       <workItem from="1554044464356" duration="9860000" />
-      <workItem from="1554055947641" duration="228000" />
+      <workItem from="1554055947641" duration="288000" />
+      <workItem from="1554067991076" duration="7925000" />
     </task>
     <task id="LOCAL-00001" summary="fixed 2nd website, minor changes">
       <created>1548443686392</created>
@@ -439,12 +394,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105044000" />
+    <option name="totallyTimeSpent" value="113021000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24878837" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24878837" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -453,7 +409,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3277311" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31932774" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31932774" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -480,7 +436,7 @@
       <window_info anchor="right" id="Cargo" order="10" weight="0.32956383" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24878837" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24878837" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -489,7 +445,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3277311" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31932774" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31932774" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -498,7 +454,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32876712" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.3277311" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3277311" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.3277311" />
       <window_info anchor="bottom" id="Database Console" order="14" weight="0.32913166" />
@@ -524,14 +480,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="fixed 2nd website, minor changes" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Exceptions/acd.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="124" column="19" selection-start-line="124" selection-start-column="19" selection-end-line="124" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProjectView framed.cfm?PROJECT ID 100291393.txt" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/io/File.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -596,70 +544,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/Utility/Links.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkLinkReceiver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="883">
-          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#921#922#0" expanded="true" />
-            <element signature="e#977#978#0" expanded="true" />
-            <element signature="e#2025#2026#0" expanded="true" />
-            <element signature="e#2082#2083#0" expanded="true" />
-            <element signature="e#2157#2158#0" expanded="true" />
-            <element signature="e#2214#2215#0" expanded="true" />
-            <element signature="e#2271#2272#0" expanded="true" />
-            <element signature="e#2328#2329#0" expanded="true" />
-            <element signature="e#2387#2388#0" expanded="true" />
-            <element signature="e#2444#2445#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/Utility/FileHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkPathCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1954#1955#0" expanded="true" />
-            <element signature="e#2011#2012#0" expanded="true" />
-            <element signature="e#2072#2073#0" expanded="true" />
-            <element signature="e#2129#2130#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/_o_b_s___?_S_e_a_r_c_h_T_e_x_t_=_ _f_p_g_a_.txt" />
     <entry file="file://$PROJECT_DIR$/res/_o_b_s___?_S_e_a_r_c_h_T_e_x_t_=_+_f_p_g_a_+_&amp;_S_c_o_=_c_3_a_2_c_c_3_d___0_3_a_2___e_4_1_1___9_7_5_9___0_0_5_0_5_6_8_f_2_0_5_4_#_.txt" />
     <entry file="file://$PROJECT_DIR$/res/.net_backend_developer__.txt" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Integration/FileHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Integration/Metadata.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
@@ -678,28 +565,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderLinkReceiver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="66" selection-start-line="37" selection-start-column="66" selection-end-line="37" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1045#1046#0" expanded="true" />
-            <element signature="e#1101#1102#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderPathCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/_o_b_s___1_1_3_1_7___j_a_v_a_u_t_v_e_c_k_l_a_r_e___.txt" />
     <entry file="file://$PROJECT_DIR$/res/_o_b_s___1_1_3_3_0___s_e_n_i_o_r_a___j_a_v_a_u_t_v_e_c_k_l_a_r_e___t_i_l_l___a_f___.txt" />
     <entry file="file://$PROJECT_DIR$/res/_o_b_s___1_1_3_3_1___m_j_u_k_v_a_r_u_u_t_v_e_c_k_l_a_r_e___t_i_l_l___a_f___.txt" />
@@ -711,28 +576,6 @@
     <entry file="file://$PROJECT_DIR$/res/_o_b_s___?_S_e_a_r_c_h_T_e_x_t_=_ _J_A_V_A_.txt" />
     <entry file="file://$PROJECT_DIR$/res/_o_b_s___1_1_2_7_8___s_o_f_t_w_a_r_e___d_e_v_e_l_o_p_e_r___j_a_v_a___k_a_r_l_s_t_a_d___.txt" />
     <entry file="file://$PROJECT_DIR$/res/_o_b_s___1_1_3_9_0___n_y_u_t_e_x_a_m_i_n_e_r_a_d___i_n_o_m___t_e_s_t___.txt" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/Utility/Helpers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1770">
-          <caret line="118" selection-start-line="118" selection-end-line="118" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3096#3097#0" expanded="true" />
-            <element signature="e#3152#3153#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/AF/AFLinkReceiver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="72" selection-start-line="72" selection-end-line="72" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Driver/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -740,26 +583,132 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Integration/DBConnection.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/Utility/FileHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        <state relative-caret-position="60">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/Utility/FileHelpers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#689#690#0" expanded="true" />
-            <element signature="e#715#716#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/Utility/Links.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/Utility/LinkHelpers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkLinkReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/AF/AFLinkReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="136" selection-start-line="30" selection-start-column="136" selection-end-line="30" selection-end-column="136" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderLinkReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/ProFinder/ProFinderPathCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Websites/AF/AFPathCreator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-294">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#950#951#0" expanded="true" />
-            <element signature="e#1007#1008#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/eWork/eWorkPathCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Websites/Utility/ConnectionHelpers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Integration/FileHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Integration/DBConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
           </folding>
         </state>
       </provider>

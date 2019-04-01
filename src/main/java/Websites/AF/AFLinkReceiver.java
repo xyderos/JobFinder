@@ -26,8 +26,9 @@ public class AFLinkReceiver extends LinkHelpers {
 
     @Override
     public void deleteWrongResults(HashSet<String> set) {
-        set.removeIf(s -> !s.contains(JOIN_US) || s.contains(TWITTER) || s.contains(FACEBOOK) || s.contains(LINKEDIN)
-                || s.contains(SEARCH_TEXT) || s.contains(SUBSCRIBE) || s.contains(OPEN_APPLICATION) || s.length()==51 ||s.length()==36);
+        set.removeIf(s -> !s.contains(JOIN_US) || s.contains(TWITTER) || s.contains(FACEBOOK)
+                        || s.contains(LINKEDIN) || s.contains(SEARCH_TEXT) || s.contains(SUBSCRIBE)
+                        || s.contains(OPEN_APPLICATION) || s.length()==51 ||s.length()==36);
     }
 
     @Override

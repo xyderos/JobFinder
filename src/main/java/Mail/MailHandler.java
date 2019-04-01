@@ -29,6 +29,7 @@ public class MailHandler {
 
     public MailHandler(String from, String pass, String dbname, String dbpass, String eWorkname, String eWorkPass,String query) {
         this.from = from;
+
         this.pass = pass;
 
         TimerTask t = new TimerTask() {
@@ -37,7 +38,9 @@ public class MailHandler {
 
                 try {
                     dbc = new DBConnection(dbname, dbpass, eWorkname, eWorkPass,query);
+
                     res = dbc.getRes();
+
                     sendJobsToEveryConsultant();
                 } catch (final Exception e) {
                     e.printStackTrace();

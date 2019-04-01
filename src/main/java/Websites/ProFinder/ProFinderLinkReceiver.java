@@ -1,6 +1,5 @@
 package Websites.ProFinder;
 
-import java.io.IOException;
 import java.util.HashSet;
 
 import Websites.Utility.LinkHelpers;
@@ -23,7 +22,13 @@ class ProFinderLinkReceiver extends LinkHelpers {
     }
 
     @Override
-    public HashSet<String> getSetFromWebsite(String query, String email, String password) throws IOException {
+    public HashSet<String> getSetFromWebsite(String email, String password,String query) throws Exception {
+
+        System.out.println(email);
+
+        System.out.println(password);
+
+        System.out.println(query);
 
         getLinksFromWebsite(email,password,SEARCH,query,set);
 

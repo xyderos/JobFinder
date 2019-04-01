@@ -2,7 +2,6 @@ package Websites.AF;
 
 import Websites.Utility.LinkHelpers;
 
-import java.io.IOException;
 import java.util.HashSet;
 
 public class AFLinkReceiver extends LinkHelpers {
@@ -32,7 +31,7 @@ public class AFLinkReceiver extends LinkHelpers {
     }
 
     @Override
-    public HashSet<String> getSetFromWebsite(String query, String email, String password) throws IOException {
+    public HashSet<String> getSetFromWebsite(String email, String password, String query) throws Exception {
 
         getLinksFromWebsite(email,password,SEARCH,query,set);
 

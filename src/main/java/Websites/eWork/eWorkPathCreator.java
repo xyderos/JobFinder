@@ -15,6 +15,9 @@ public class eWorkPathCreator extends FileHelpers {
 
     @Override
     public void init(String query, String name, String password) throws Exception {
+
+
+        System.out.println(query);
         toFiles(DELIM,query,eWorkLinkReceiver.getSetFromWebsite(query,name,password),files,name,password);
     }
 }

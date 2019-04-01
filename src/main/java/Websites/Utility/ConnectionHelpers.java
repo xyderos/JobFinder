@@ -28,7 +28,7 @@ class ConnectionHelpers {
 
     private static final String B_ANSWER="Logga in";
 
-    Document createConnectionWitheWork(String name, String password, String url) throws IOException {
+    private Document createConnectionWitheWork(String name, String password, String url) throws IOException {
 
         Connection.Response response =
                 Jsoup.connect(LOG_IN)
@@ -61,5 +61,12 @@ class ConnectionHelpers {
         Element btn = form.select(button).first();
 
         btn.val(bAnswer);
+    }
+
+    Document decide(String name,String password,String url) throws Exception{
+
+        if (name==null && password==null) return Jsoup.connect(url).get();
+
+        else return createConnectionWitheWork(name,password,url);
     }
 }

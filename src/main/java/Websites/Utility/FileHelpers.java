@@ -59,15 +59,11 @@ public abstract class FileHelpers extends ConnectionHelpers {
         return create(fileName,url,nm,password);
     }
 
-    private String create(String fileName, String url, String name, String password) throws IOException{
-
-        Document doc;
+    private String create(String fileName, String url, String name, String password) throws Exception{
 
         BufferedWriter out = createFileInDirectory(fileName);
 
-        if (name==null && password==null) doc = createConnectionWitheWork(null,null, url);
-
-        else doc = createConnectionWitheWork(name,password, url);
+        Document doc=decide(name,password,url);
 
         Elements paragraphs = doc.select(PARAGRAPH);
 
@@ -88,11 +84,14 @@ public abstract class FileHelpers extends ConnectionHelpers {
     }
 
     private String getString(String fileName, BufferedWriter out, Elements paragraphs) throws IOException {
+
         for (Element p : paragraphs) {
 
             String s = p.text();
 
-            if (s==null || out==null) continue;
+            if (s==null) continue;
+
+            if (out==null) continue;
 
             out.write(s);
         }

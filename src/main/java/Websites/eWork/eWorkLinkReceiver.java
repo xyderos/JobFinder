@@ -2,8 +2,6 @@ package Websites.eWork;
 
 import Websites.Utility.LinkHelpers;
 
-
-import java.io.IOException;
 import java.util.HashSet;
 
 public class eWorkLinkReceiver extends LinkHelpers{
@@ -20,7 +18,7 @@ public class eWorkLinkReceiver extends LinkHelpers{
     }
 
     @Override
-    public HashSet<String> getSetFromWebsite(String query, String email, String password) throws IOException {
+    public HashSet<String> getSetFromWebsite(String query, String email, String password) throws Exception {
 
         getLinksFromWebsite(email,password,SEARCH,query,set);
 

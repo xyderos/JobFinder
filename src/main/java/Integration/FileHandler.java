@@ -16,11 +16,13 @@ class FileHandler {
 
     private static final String DIR=System.getProperty("user.dir")+ "/res/";
 
-    static void getAds(String username, String password,String query) throws Exception {
+    static void getAds(String username, String password,String query) throws Exception{
 
         Thread t1 = new Thread(() -> {
             try {
-                ew.init(username,password,query);
+
+                System.out.println(query);
+                ew.init(query,username,password);
             } catch (Exception e) {
                 e.printStackTrace();
             }
@@ -38,13 +40,11 @@ class FileHandler {
 
         Thread t3 = new Thread(() -> {
             try {
-                pf.init(query,null,null);
+                pf.init(null,null,null);
             } catch (Exception e) {
                 e.printStackTrace();
             }
         });
-
-
         t3.start();
 
         t1.join();
@@ -52,7 +52,6 @@ class FileHandler {
         t2.join();
 
         t3.join();
-
     }
 
     static File[] files(){

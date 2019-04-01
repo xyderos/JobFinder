@@ -1,11 +1,9 @@
 package Websites.Utility;
 
-import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import java.io.IOException;
 import java.util.HashSet;
 
 public abstract class LinkHelpers extends ConnectionHelpers {
@@ -18,7 +16,9 @@ public abstract class LinkHelpers extends ConnectionHelpers {
 
     private static final String FMT="\\W+";
 
-    public abstract HashSet<String> getSetFromWebsite(String query,String email, String password) throws IOException;
+    private static final String PLUS="+";
+
+    public abstract HashSet<String> getSetFromWebsite(String query,String email, String password) throws Exception;
 
     protected abstract void deleteWrongResults(HashSet<String> set);
 
@@ -26,29 +26,27 @@ public abstract class LinkHelpers extends ConnectionHelpers {
         return String.format(STRING_FORMAT,args);
     }
 
-    private String getString(String query, String search) {
+    private String getString(String search, String query) {
+
+        if (query==null) return search;
+
         String[] words = query.split(FMT);
 
         StringBuilder q= new StringBuilder(search);
 
-        for (String e: words) q.append("+").append(e);
+        for (String e: words) q.append(PLUS).append(e);
 
         return q.toString();
     }
 
-    protected void getLinksFromWebsite(String email, String password,String url, String query, HashSet<String> set) throws IOException {
+    protected void getLinksFromWebsite(String email,String password, String url,String query, HashSet<String> set) throws Exception {
 
         String formattedQuery=getString(url,query);
 
-        Document doc;
-
-        if (email==null && password==null) doc=Jsoup.connect(formattedQuery).get();
-
-        else doc = createConnectionWitheWork(email,password,formattedQuery);
+        Document doc=decide(email,password,formattedQuery);
 
         Elements elements=doc.select(QUERY);
 
         for (Element e1 : elements) set.add(toString(e1.attr(KEY)));
-
     }
 }
